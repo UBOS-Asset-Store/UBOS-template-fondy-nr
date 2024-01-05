@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "e023adeb0c937448",
+        "type": "tab",
+        "label": " Basic settings",
+        "disabled": false,
+        "info": "",
+        "env": []
+    }
+]
