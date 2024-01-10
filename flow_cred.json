@@ -1,15 +1,12 @@
 {
     "f168eeb2f9b6dc07": {
-        "user": "${fondydb-user} ",
-        "password": "fondydb"
+        "user": "${fondydb-user}",
+        "password": "${fondydb-password}"
     },
     "7846481e870df3f9": {
         "user": "${fondydb-user}",
         "password": "${fondydb-password}"
     },
-    "d18b6a3a.371bb8": {},
-    "ca349286d6916404": {
-        "password": "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"
-    },
-    "b9aad75b8444de20": {}
+    "008a51a473b2faea": {},
+    "802b612aa6ef27e0": {}
 }
