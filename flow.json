@@ -24,6 +24,14 @@
         "env": []
     },
     {
+        "id": "42cf3c01bc6c1d41",
+        "type": "tab",
+        "label": "Dashboard",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
         "id": "81031a41452292e5",
         "type": "group",
         "z": "c8b39bad946d8ab6",
@@ -5085,7 +5093,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 380,
+        "x": 340,
         "y": 3180,
         "wires": [
             [
@@ -5110,8 +5118,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1160,
-        "y": 3240,
+        "x": 940,
+        "y": 3260,
         "wires": [
             [
                 "bc0f550f1359a6ec"
@@ -5128,7 +5136,7 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 570,
+        "x": 490,
         "y": 3180,
         "wires": [
             [
@@ -5147,8 +5155,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1750,
-        "y": 3180,
+        "x": 1510,
+        "y": 3160,
         "wires": [
             [
                 "3137080b8443ca6f"
@@ -5169,7 +5177,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 685,
+        "x": 595,
         "y": 3180,
         "wires": [
             [
@@ -5191,8 +5199,8 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 1590,
-        "y": 3180,
+        "x": 1350,
+        "y": 3160,
         "wires": [
             [
                 "0b2cf452ccbd0145"
@@ -5209,8 +5217,8 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 1910,
-        "y": 3180,
+        "x": 1670,
+        "y": 3140,
         "wires": [
             [
                 "28767513ce15095c"
@@ -5228,8 +5236,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 825,
-        "y": 3180,
+        "x": 655,
+        "y": 3160,
         "wires": [
             [
                 "ab652fd69b89e525"
@@ -5248,8 +5256,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1450,
-        "y": 3180,
+        "x": 1190,
+        "y": 3160,
         "wires": [
             [
                 "647f224769fd5ccf"
@@ -5273,8 +5281,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 2025,
-        "y": 3180,
+        "x": 1775,
+        "y": 3140,
         "wires": [
             [
                 "98a32147a7ff1fdc"
@@ -5293,8 +5301,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1000,
-        "y": 3180,
+        "x": 780,
+        "y": 3160,
         "wires": [
             [
                 "ebd2d5ec975b8df6"
@@ -5318,8 +5326,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1305,
-        "y": 3180,
+        "x": 1055,
+        "y": 3160,
         "wires": [
             [
                 "0a311e524a45cb4c"
@@ -5344,8 +5352,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 2660,
-        "y": 3260,
+        "x": 2560,
+        "y": 3200,
         "wires": [
             [
                 "28767513ce15095c"
@@ -5363,8 +5371,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2120,
-        "y": 3180,
+        "x": 1880,
+        "y": 3140,
         "wires": [
             [
                 "57457592b1c644ef"
@@ -5381,8 +5389,8 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 1190,
-        "y": 3180,
+        "x": 950,
+        "y": 3160,
         "wires": [
             [
                 "f3f6b3701a56c295"
@@ -5406,8 +5414,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 1960,
-        "y": 3260,
+        "x": 1920,
+        "y": 3220,
         "wires": [
             [
                 "f3f6b3701a56c295"
@@ -5425,8 +5433,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 3120,
-        "y": 3180,
+        "x": 2860,
+        "y": 3120,
         "wires": [
             [
                 "e4d439733f677236",
@@ -5447,8 +5455,8 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 2270,
-        "y": 3180,
+        "x": 2030,
+        "y": 3140,
         "wires": [
             [
                 "01d699427aab4b28"
@@ -5466,8 +5474,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2460,
-        "y": 3180,
+        "x": 2180,
+        "y": 3140,
         "wires": [
             [
                 "0658b60de37e40e6"
@@ -5487,8 +5495,8 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 2970,
-        "y": 3180,
+        "x": 2690,
+        "y": 3120,
         "wires": [
             [
                 "0ad552e590edd45e"
@@ -5502,8 +5510,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 3330,
-        "y": 3120,
+        "x": 3030,
+        "y": 3100,
         "wires": []
     },
     {
@@ -5519,8 +5527,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 3110,
-        "y": 3140,
+        "x": 3050,
+        "y": 3060,
         "wires": []
     },
     {
@@ -5533,8 +5541,8 @@
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 2610,
-        "y": 3180,
+        "x": 2330,
+        "y": 3120,
         "wires": [
             [
                 "45a32356e02a2d3c"
@@ -5552,8 +5560,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 2820,
-        "y": 3180,
+        "x": 2540,
+        "y": 3120,
         "wires": [
             [
                 "ad141a591246cdb7"
@@ -5577,8 +5585,8 @@
         "drop": false,
         "allowrate": false,
         "outputs": 1,
-        "x": 2705,
-        "y": 3180,
+        "x": 2425,
+        "y": 3120,
         "wires": [
             [
                 "16130ac3714e8190"
@@ -5727,7 +5735,7 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 150,
+        "x": 170,
         "y": 3220,
         "wires": [
             [
@@ -5742,8 +5750,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 770,
-        "y": 3220,
+        "x": 690,
+        "y": 3200,
         "wires": []
     },
     {
@@ -5862,7 +5870,7 @@
         "topic": "",
         "payload": "",
         "payloadType": "date",
-        "x": 120,
+        "x": 140,
         "y": 3520,
         "wires": [
             [
@@ -5956,7 +5964,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 360,
+        "x": 390,
         "y": 500,
         "wires": [
             [
@@ -5971,7 +5979,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 690,
+        "x": 770,
         "y": 500,
         "wires": []
     },
@@ -5979,18 +5987,17 @@
         "id": "6f82f37ba3ca2c5d",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "find",
         "links": [
             "346e518816416d1d"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 530,
+        "x": 610,
         "y": 500,
         "wires": [
             [
-                "c76463c7de832d71",
-                "651937a9b54fd794"
+                "c76463c7de832d71"
             ]
         ]
     },
@@ -6027,7 +6034,7 @@
                 "module": "objectid"
             }
         ],
-        "x": 370,
+        "x": 390,
         "y": 200,
         "wires": [
             [
@@ -6043,7 +6050,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 830,
+        "x": 910,
         "y": 200,
         "wires": []
     },
@@ -6051,13 +6058,13 @@
         "id": "87ee588dc76b318f",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "update",
         "links": [
             "286431cd31c9fc7a"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 540,
+        "x": 620,
         "y": 200,
         "wires": [
             [
@@ -6076,30 +6083,13 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 690,
+        "x": 770,
         "y": 200,
         "wires": [
             [
                 "bfa0d85aa7b76391"
             ]
         ]
-    },
-    {
-        "id": "651937a9b54fd794",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "all orders",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 700,
-        "y": 540,
-        "wires": []
     },
     {
         "id": "1c5beeeeab7b90c1",
@@ -6114,7 +6104,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 550,
+        "x": 630,
         "y": 240,
         "wires": []
     },
@@ -6151,7 +6141,7 @@
                 "module": "objectid"
             }
         ],
-        "x": 370,
+        "x": 390,
         "y": 300,
         "wires": [
             [
@@ -6167,7 +6157,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 830,
+        "x": 910,
         "y": 300,
         "wires": []
     },
@@ -6175,13 +6165,13 @@
         "id": "a51d9a0f0a1c6482",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "update",
         "links": [
             "286431cd31c9fc7a"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 540,
+        "x": 620,
         "y": 300,
         "wires": [
             [
@@ -6200,7 +6190,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 690,
+        "x": 770,
         "y": 300,
         "wires": [
             [
@@ -6221,7 +6211,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 550,
+        "x": 630,
         "y": 340,
         "wires": []
     },
@@ -6258,7 +6248,7 @@
                 "module": "objectid"
             }
         ],
-        "x": 380,
+        "x": 400,
         "y": 400,
         "wires": [
             [
@@ -6274,7 +6264,7 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 830,
+        "x": 910,
         "y": 400,
         "wires": []
     },
@@ -6282,13 +6272,13 @@
         "id": "da9ecd86e6ad0798",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "update",
         "links": [
             "286431cd31c9fc7a"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 540,
+        "x": 620,
         "y": 400,
         "wires": [
             [
@@ -6307,7 +6297,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 690,
+        "x": 770,
         "y": 400,
         "wires": [
             [
@@ -6328,38 +6318,9 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 560,
+        "x": 640,
         "y": 440,
         "wires": []
-    },
-    {
-        "id": "e726b3b068fdadb9",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 540,
-        "wires": [
-            [
-                "63e3882424b7b31a"
-            ]
-        ]
     },
     {
         "id": "73965a20b0544133",
@@ -6377,7 +6338,7 @@
                 "module": "objectid"
             }
         ],
-        "x": 350,
+        "x": 390,
         "y": 100,
         "wires": [
             [
@@ -6427,7 +6388,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 570,
+        "x": 790,
         "y": 140,
         "wires": []
     },
@@ -6435,13 +6396,13 @@
         "id": "4336d8cd0c11aa0e",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "insert",
         "links": [
             "1764f8568a80ddbd"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 530,
+        "x": 610,
         "y": 100,
         "wires": [
             [
@@ -6462,7 +6423,7 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 670,
+        "x": 770,
         "y": 60,
         "wires": [
             []
@@ -6488,7 +6449,7 @@
                 "module": "objectid"
             }
         ],
-        "x": 690,
+        "x": 790,
         "y": 100,
         "wires": [
             [
@@ -6512,7 +6473,7 @@
         "authType": "",
         "senderr": false,
         "headers": [],
-        "x": 870,
+        "x": 950,
         "y": 100,
         "wires": [
             [
@@ -6531,7 +6492,7 @@
         "headers": {
             "location": "msg.payload.response.checkout_url"
         },
-        "x": 1030,
+        "x": 1110,
         "y": 100,
         "wires": []
     },
@@ -6548,7 +6509,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1030,
+        "x": 1110,
         "y": 140,
         "wires": []
     },
@@ -6562,30 +6523,12 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 140,
-        "y": 1080,
+        "y": 800,
         "wires": [
             [
-                "8703f4bcb1ed4a31",
                 "7181197c36dbb81a"
             ]
         ]
-    },
-    {
-        "id": "8703f4bcb1ed4a31",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "debug 255",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 350,
-        "y": 1120,
-        "wires": []
     },
     {
         "id": "7181197c36dbb81a",
@@ -6598,8 +6541,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 350,
-        "y": 1080,
+        "x": 390,
+        "y": 800,
         "wires": [
             [
                 "2f3b12e8c06141df"
@@ -6622,7 +6565,7 @@
                 "module": "objectid"
             }
         ],
-        "x": 1050,
+        "x": 1130,
         "y": 60,
         "wires": [
             [
@@ -6635,13 +6578,13 @@
         "id": "bc74f407da6de118",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "update",
         "links": [
             "286431cd31c9fc7a"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 1240,
+        "x": 1320,
         "y": 40,
         "wires": [
             []
@@ -6660,7 +6603,7 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 1250,
+        "x": 1330,
         "y": 80,
         "wires": []
     },
@@ -6668,14 +6611,14 @@
         "id": "2f3b12e8c06141df",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "find",
         "links": [
             "346e518816416d1d"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 510,
-        "y": 1080,
+        "x": 610,
+        "y": 800,
         "wires": [
             [
                 "e0fc24a35fd2d1d5",
@@ -6696,8 +6639,8 @@
         "targetType": "full",
         "statusVal": "",
         "statusType": "auto",
-        "x": 670,
-        "y": 1040,
+        "x": 790,
+        "y": 840,
         "wires": []
     },
     {
@@ -6716,8 +6659,8 @@
                 "module": "objectid"
             }
         ],
-        "x": 670,
-        "y": 1080,
+        "x": 790,
+        "y": 800,
         "wires": [
             [
                 "f9b651d25666fdfb"
@@ -6728,82 +6671,16 @@
         "id": "f9b651d25666fdfb",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "update",
         "links": [
             "286431cd31c9fc7a"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 830,
-        "y": 1080,
+        "x": 960,
+        "y": 800,
         "wires": [
             []
-        ]
-    },
-    {
-        "id": "82daa36e746d6aaa",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"name\":\"тест\",\"phone\":\"1232123123\",\"address\":\"\",\"floor\":\"\",\"paymentMethod\":\"На карту\",\"contactMethod\":\"\",\"newPostNumber\":4,\"city\":\"тест\",\"notes\":\"тест\",\"items\":[{\"id\":0,\"name\":\"Набір Халумі\",\"price\":770,\"total_amount\":1,\"quantity\":1.85}],\"email\":\"тест@тест.тест\"}",
-        "payloadType": "json",
-        "x": 130,
-        "y": 1180,
-        "wires": [
-            [
-                "47e0eedbc3f55765"
-            ]
-        ]
-    },
-    {
-        "id": "47e0eedbc3f55765",
-        "type": "function",
-        "z": "7b13882ad5aa8e09",
-        "name": "function 334",
-        "func": "// msg.fromFondy = msg.payload\nmsg.payload={\n    payment_id: 714098875\n}\nmsg.collection = 'orders'\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 290,
-        "y": 1180,
-        "wires": [
-            [
-                "9c5338884ec29669"
-            ]
-        ]
-    },
-    {
-        "id": "9c5338884ec29669",
-        "type": "link call",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "links": [
-            "346e518816416d1d"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 450,
-        "y": 1180,
-        "wires": [
-            [
-                "8703f4bcb1ed4a31"
-            ]
         ]
     },
     {
@@ -6828,7 +6705,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 140,
-        "y": 1260,
+        "y": 900,
         "wires": [
             [
                 "260d67da3b82436c"
@@ -6847,7 +6724,7 @@
         "finalize": "",
         "libs": [],
         "x": 350,
-        "y": 1260,
+        "y": 900,
         "wires": [
             [
                 "e9928cc47ab33229"
@@ -6866,7 +6743,7 @@
         "multi": false,
         "operation": "delete",
         "x": 680,
-        "y": 1260,
+        "y": 900,
         "wires": []
     },
     {
@@ -6879,7 +6756,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 160,
-        "y": 620,
+        "y": 560,
         "wires": [
             [
                 "431ab6c5e0ae5251"
@@ -6902,8 +6779,8 @@
                 "module": "objectid"
             }
         ],
-        "x": 380,
-        "y": 620,
+        "x": 410,
+        "y": 560,
         "wires": [
             [
                 "dd5cb51bed2e839f"
@@ -6911,67 +6788,20 @@
         ]
     },
     {
-        "id": "e378e1b38e463507",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "all orders",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 720,
-        "y": 660,
-        "wires": []
-    },
-    {
-        "id": "baaf2a8bd35e6558",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 660,
-        "wires": [
-            [
-                "431ab6c5e0ae5251"
-            ]
-        ]
-    },
-    {
         "id": "dd5cb51bed2e839f",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "find",
         "links": [
             "346e518816416d1d"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 570,
-        "y": 620,
+        "x": 610,
+        "y": 560,
         "wires": [
             [
-                "c687368ee12a6bd1",
-                "e378e1b38e463507"
+                "c687368ee12a6bd1"
             ]
         ]
     },
@@ -6982,8 +6812,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 710,
-        "y": 620,
+        "x": 770,
+        "y": 560,
         "wires": []
     },
     {
@@ -7013,7 +6843,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 160,
-        "y": 740,
+        "y": 620,
         "wires": [
             [
                 "7db38f2cc48552ce"
@@ -7036,8 +6866,8 @@
                 "module": "objectid"
             }
         ],
-        "x": 380,
-        "y": 740,
+        "x": 410,
+        "y": 620,
         "wires": [
             [
                 "d43a3d85596ad4ea"
@@ -7045,67 +6875,20 @@
         ]
     },
     {
-        "id": "8add3c15389cffc2",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "all orders",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 720,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "c799d2bcc7998cb5",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 780,
-        "wires": [
-            [
-                "7db38f2cc48552ce"
-            ]
-        ]
-    },
-    {
         "id": "d43a3d85596ad4ea",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "aggregate",
         "links": [
             "b7c366424b9b7e6e"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 580,
-        "y": 740,
+        "x": 620,
+        "y": 620,
         "wires": [
             [
-                "83efd9a9e7bd4890",
-                "8add3c15389cffc2"
+                "83efd9a9e7bd4890"
             ]
         ]
     },
@@ -7116,8 +6899,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 710,
-        "y": 740,
+        "x": 770,
+        "y": 620,
         "wires": []
     },
     {
@@ -7130,7 +6913,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 170,
-        "y": 840,
+        "y": 680,
         "wires": [
             [
                 "1299a32cf310a0c1"
@@ -7153,8 +6936,8 @@
                 "module": "objectid"
             }
         ],
-        "x": 400,
-        "y": 840,
+        "x": 420,
+        "y": 680,
         "wires": [
             [
                 "ed38466de027894f"
@@ -7162,67 +6945,20 @@
         ]
     },
     {
-        "id": "afce88d804e6a00e",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "all orders",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 720,
-        "y": 880,
-        "wires": []
-    },
-    {
-        "id": "97ede3e24b3896f5",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 880,
-        "wires": [
-            [
-                "1299a32cf310a0c1"
-            ]
-        ]
-    },
-    {
         "id": "ed38466de027894f",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "aggregate",
         "links": [
             "b7c366424b9b7e6e"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 580,
-        "y": 840,
+        "x": 620,
+        "y": 680,
         "wires": [
             [
-                "d6e80f5e2a39f923",
-                "afce88d804e6a00e"
+                "d6e80f5e2a39f923"
             ]
         ]
     },
@@ -7233,8 +6969,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 710,
-        "y": 840,
+        "x": 770,
+        "y": 680,
         "wires": []
     },
     {
@@ -7247,7 +6983,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 170,
-        "y": 940,
+        "y": 740,
         "wires": [
             [
                 "a6656f33019601eb"
@@ -7270,8 +7006,8 @@
                 "module": "objectid"
             }
         ],
-        "x": 390,
-        "y": 940,
+        "x": 410,
+        "y": 740,
         "wires": [
             [
                 "21a37100512e98d7"
@@ -7279,67 +7015,20 @@
         ]
     },
     {
-        "id": "bb203ffc9f6124a5",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "all orders",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 720,
-        "y": 980,
-        "wires": []
-    },
-    {
-        "id": "2b2f39a068d459dd",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 980,
-        "wires": [
-            [
-                "a6656f33019601eb"
-            ]
-        ]
-    },
-    {
         "id": "21a37100512e98d7",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
-        "name": "",
+        "name": "aggregate",
         "links": [
             "b7c366424b9b7e6e"
         ],
         "linkType": "static",
         "timeout": "30",
-        "x": 580,
-        "y": 940,
+        "x": 620,
+        "y": 740,
         "wires": [
             [
-                "1fa1e518d679f1d0",
-                "bb203ffc9f6124a5"
+                "1fa1e518d679f1d0"
             ]
         ]
     },
@@ -7350,8 +7039,673 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 710,
-        "y": 940,
+        "x": 770,
+        "y": 740,
+        "wires": []
+    },
+    {
+        "id": "35f1a20d2f7b051e",
+        "type": "http in",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "url": "/orderStatistics",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 40,
+        "wires": [
+            [
+                "dc0a8b87efabae6a"
+            ]
+        ]
+    },
+    {
+        "id": "72206e573c4b76b7",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersData = [\n    {\n        \"label\": \"Successful\",\n        \"value\": msg.payload.successful.length,\n        \"type\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Rejected\",\n        \"value\": msg.payload.rejected.length ,\n        \"type\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Pending\",\n        \"value\": msg.payload.pending.length,\n        \"type\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Створення графіка\nconst chartData = {\n    chartData:[\n    // {\n    //     \"label\": 'Total Orders', value: totalOrders, \"type\": \"4-10\", \"color\": \"#FFEB3B\",\"borderColor\": \"#F44336\" },\n    ...ordersData\n],\n    total: totalOrders };\n\n\n\n// Оновлення графіка з новими даними\nmsg.payload = chartData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 40,
+        "wires": [
+            [
+                "a77bbd3764193dfb"
+            ]
+        ]
+    },
+    {
+        "id": "dc0a8b87efabae6a",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "\nmsg.collection = 'orders'\nmsg.payload = {\n      deleted: false\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 40,
+        "wires": [
+            [
+                "b036a50553292366"
+            ]
+        ]
+    },
+    {
+        "id": "b036a50553292366",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "find",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 470,
+        "y": 40,
+        "wires": [
+            [
+                "415ee0e1b6f65dd4"
+            ]
+        ]
+    },
+    {
+        "id": "415ee0e1b6f65dd4",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 40,
+        "wires": [
+            [
+                "72206e573c4b76b7"
+            ]
+        ]
+    },
+    {
+        "id": "a77bbd3764193dfb",
+        "type": "http response",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 990,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "bd4d8441ed957472",
+        "type": "http in",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "url": "/cashStatistics",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 100,
+        "wires": [
+            [
+                "a354aaa01e8aaed5"
+            ]
+        ]
+    },
+    {
+        "id": "c7d8bd79d5c10c2d",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersData = [\n    {\n        \"label\": \"Successful\",\n        \"value\": msg.payload.successful.length,\n        \"type\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Rejected\",\n        \"value\": msg.payload.rejected.length ,\n        \"type\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Pending\",\n        \"value\": msg.payload.pending.length,\n        \"type\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Створення графіка\nconst chartData = {\n    chartData: [\n        // {\n        //     \"label\": 'Total Orders', value: totalOrders, \"type\": \"4-10\", \"color\": \"#FFEB3B\",\"borderColor\": \"#F44336\" },\n        ...ordersData\n    ],\n    total: totalOrders\n};\n\n\n// Оновлення графіка з новими даними\nmsg.payload = chartData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 100,
+        "wires": [
+            [
+                "ef07c3b8bf525e57"
+            ]
+        ]
+    },
+    {
+        "id": "a354aaa01e8aaed5",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "\nmsg.collection = 'orders'\nmsg.payload = {\n      payment_method: \"cash\",\n      deleted: false\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 100,
+        "wires": [
+            [
+                "4a7b997c7e3b3d78"
+            ]
+        ]
+    },
+    {
+        "id": "4a7b997c7e3b3d78",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "find",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 470,
+        "y": 100,
+        "wires": [
+            [
+                "cf7f19cb2ab858fb"
+            ]
+        ]
+    },
+    {
+        "id": "cf7f19cb2ab858fb",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 100,
+        "wires": [
+            [
+                "c7d8bd79d5c10c2d"
+            ]
+        ]
+    },
+    {
+        "id": "ef07c3b8bf525e57",
+        "type": "http response",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 990,
+        "y": 100,
+        "wires": []
+    },
+    {
+        "id": "49499f09e9a27d92",
+        "type": "http in",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "url": "/todayStatistics",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 160,
+        "wires": [
+            [
+                "c3a94188b92ea8a8"
+            ]
+        ]
+    },
+    {
+        "id": "65f0bdfc367f0abf",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersData = [\n    {\n        \"label\": \"Successful\",\n        \"value\": msg.payload.successful.length,\n        \"type\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Rejected\",\n        \"value\": msg.payload.rejected.length ,\n        \"type\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Pending\",\n        \"value\": msg.payload.pending.length,\n        \"type\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Створення графіка\nconst chartData = {\n    chartData: [\n        // {\n        //     \"label\": 'Total Orders', value: totalOrders, \"type\": \"4-10\", \"color\": \"#FFEB3B\",\"borderColor\": \"#F44336\" },\n        ...ordersData\n    ],\n    total: totalOrders\n};\n\n\n\n// Оновлення графіка з новими даними\nmsg.payload = chartData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 160,
+        "wires": [
+            [
+                "0accf8fe8185520f"
+            ]
+        ]
+    },
+    {
+        "id": "c3a94188b92ea8a8",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "msg.collection = 'orders';\n\n\nconst currentDate = new Date().toLocaleDateString('uk-UA', { day: '2-digit', month: '2-digit', year: 'numeric' });\n\nmsg.payload = [\n      {\n            $match: {\n                  $expr: {\n                        $eq: [\n                              {\n                                    $dateToString: {\n                                          format: '%d.%m.%Y',\n                                          date: { $toDate: '$createdAt' }\n                                    }\n                              },\n                              currentDate\n                        ]\n                  },\n                  deleted: false\n            }\n      }\n];\n\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 160,
+        "wires": [
+            [
+                "9ae590a2ee719c74"
+            ]
+        ]
+    },
+    {
+        "id": "9ae590a2ee719c74",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "aggregate",
+        "links": [
+            "b7c366424b9b7e6e"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 480,
+        "y": 160,
+        "wires": [
+            [
+                "3fe5dc52d7de2497"
+            ]
+        ]
+    },
+    {
+        "id": "3fe5dc52d7de2497",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 160,
+        "wires": [
+            [
+                "65f0bdfc367f0abf"
+            ]
+        ]
+    },
+    {
+        "id": "0accf8fe8185520f",
+        "type": "http response",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 990,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "a32200dc77736668",
+        "type": "http in",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "url": "/totalOrderStatistics",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 360,
+        "wires": [
+            [
+                "0b7283146770d37f"
+            ]
+        ]
+    },
+    {
+        "id": "c69337396580988b",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst allOrdersData = [\n    {\n        \"x\": \"Total Orders\",\n        \"y\": msg.payload.successful.length,\n        \"seriesField\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"x\": \"Total Orders\",\n        \"y\": msg.payload.rejected.length ,\n        \"seriesField\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"x\": \"Total Orders\",\n        \"y\": msg.payload.pending.length,\n        \"seriesField\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Створення графіка\nconst chartData = [\n    ...allOrdersData\n];\n\n\n\n// Оновлення графіка з новими даними\nmsg.chartData = chartData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 780,
+        "y": 360,
+        "wires": [
+            [
+                "8a05cb523dc5a23c"
+            ]
+        ]
+    },
+    {
+        "id": "0b7283146770d37f",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "\nmsg.collection = 'orders'\nmsg.payload = {\n      deleted: false\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 360,
+        "wires": [
+            [
+                "c913017091823def"
+            ]
+        ]
+    },
+    {
+        "id": "c913017091823def",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "find",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 470,
+        "y": 360,
+        "wires": [
+            [
+                "fa1631df3612131f"
+            ]
+        ]
+    },
+    {
+        "id": "fa1631df3612131f",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 360,
+        "wires": [
+            [
+                "c69337396580988b"
+            ]
+        ]
+    },
+    {
+        "id": "997dba4a982edeed",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersByCashData = [\n    ...msg.chartData,\n    {\n        \"x\": \"Orders by cash\",\n        \"y\": msg.payload.successful.length,\n        \"seriesField\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"x\": \"Orders by cash\",\n        \"y\": msg.payload.rejected.length ,\n        \"seriesField\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"x\": \"Orders by cash\",\n        \"y\": msg.payload.pending.length,\n        \"seriesField\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Оновлення графіка з новими даними\nmsg.chartData = ordersByCashData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1400,
+        "y": 360,
+        "wires": [
+            [
+                "a351992fed5b1886"
+            ]
+        ]
+    },
+    {
+        "id": "8a05cb523dc5a23c",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "\nmsg.collection = 'orders'\nmsg.payload = {\n      payment_method: \"cash\",\n      deleted: false\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 950,
+        "y": 360,
+        "wires": [
+            [
+                "e4710cd3a33add82"
+            ]
+        ]
+    },
+    {
+        "id": "e4710cd3a33add82",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "find",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 1090,
+        "y": 360,
+        "wires": [
+            [
+                "3a48b47c42610980"
+            ]
+        ]
+    },
+    {
+        "id": "3a48b47c42610980",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1230,
+        "y": 360,
+        "wires": [
+            [
+                "997dba4a982edeed"
+            ]
+        ]
+    },
+    {
+        "id": "7fbe2440111b24ce",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersForTodayData = [\n    ...msg.chartData,\n    {\n        \"x\": \"Ordered today\",\n        \"y\": msg.payload.successful.length,\n        \"seriesField\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"x\": \"Ordered today\",\n        \"y\": msg.payload.rejected.length ,\n        \"seriesField\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"x\": \"Ordered today\",\n        \"y\": msg.payload.pending.length,\n        \"seriesField\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Створення графіка\nmsg.payload = ordersForTodayData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 2040,
+        "y": 360,
+        "wires": [
+            [
+                "5ca924b2d8a15ed2"
+            ]
+        ]
+    },
+    {
+        "id": "a351992fed5b1886",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "msg.collection = 'orders';\n\n\nconst currentDate = new Date().toLocaleDateString('uk-UA', { day: '2-digit', month: '2-digit', year: 'numeric' });\n\nmsg.payload = [\n      {\n            $match: {\n                  $expr: {\n                        $eq: [\n                              {\n                                    $dateToString: {\n                                          format: '%d.%m.%Y',\n                                          date: { $toDate: '$createdAt' }\n                                    }\n                              },\n                              currentDate\n                        ]\n                  },\n                  deleted: false\n            }\n      }\n];\n\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1570,
+        "y": 360,
+        "wires": [
+            [
+                "0756d62b0fb0dd3b"
+            ]
+        ]
+    },
+    {
+        "id": "0756d62b0fb0dd3b",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "aggregate",
+        "links": [
+            "b7c366424b9b7e6e"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 1720,
+        "y": 360,
+        "wires": [
+            [
+                "eac125fb09d36c87"
+            ]
+        ]
+    },
+    {
+        "id": "eac125fb09d36c87",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1870,
+        "y": 360,
+        "wires": [
+            [
+                "7fbe2440111b24ce"
+            ]
+        ]
+    },
+    {
+        "id": "5ca924b2d8a15ed2",
+        "type": "http response",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 2190,
+        "y": 360,
+        "wires": []
+    },
+    {
+        "id": "78d28f16b3745dcd",
+        "type": "http in",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "url": "/pieChart",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 220,
+        "wires": [
+            [
+                "74f36509fdb1eb9d"
+            ]
+        ]
+    },
+    {
+        "id": "b5075bc80a13ef92",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersData = [\n    {\n        \"label\": \"Cash\",\n        \"value\": msg.payload.cash.length,\n        \"type\": \"Cash\",\n        \"color\": \"#82B5B2\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Card\",\n        \"value\": msg.payload.card.length ,\n        \"type\": \"Card\",\n        \"color\": \"#FFCD80\",\n        \"borderColor\": \"#000\"\n    }\n   \n   \n]\n\n// Створення графіка\nconst chartData = {\n    chartData:[\n    ...ordersData\n],\n    total: totalOrders };\n\n\n\n// Оновлення графіка з новими даними\nmsg.payload = chartData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 220,
+        "wires": [
+            [
+                "a9fb3be8536f23a1"
+            ]
+        ]
+    },
+    {
+        "id": "74f36509fdb1eb9d",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "\nmsg.collection = 'orders'\nmsg.payload = {\n      deleted: false\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 220,
+        "wires": [
+            [
+                "3cd16e0aac975831"
+            ]
+        ]
+    },
+    {
+        "id": "3cd16e0aac975831",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "find",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 470,
+        "y": 220,
+        "wires": [
+            [
+                "b6de9e2ef09ec4b2"
+            ]
+        ]
+    },
+    {
+        "id": "b6de9e2ef09ec4b2",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    cash: msg.payload.filter(e => e.payment_method === 'cash'),\n    card: msg.payload.filter(e => e.payment_method === 'card'),\n    \n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 220,
+        "wires": [
+            [
+                "b5075bc80a13ef92"
+            ]
+        ]
+    },
+    {
+        "id": "a9fb3be8536f23a1",
+        "type": "http response",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 990,
+        "y": 220,
         "wires": []
     }
 ]
