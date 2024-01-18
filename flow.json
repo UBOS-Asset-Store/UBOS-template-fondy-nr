@@ -73,9 +73,7 @@
             "306adf550fae80e8"
         ],
         "x": 894,
-        "y": 1859,
-        "w": 692,
-        "h": 722
+        "y": 1859
     },
     {
         "id": "d78377c07a215120",
@@ -159,9 +157,7 @@
             "c86e4878aeaec2cc"
         ],
         "x": 14,
-        "y": 19,
-        "w": 1952,
-        "h": 1022
+        "y": 19
     },
     {
         "id": "2229ae9934019399",
@@ -185,9 +181,7 @@
             "a2b1bc579a4c0ced"
         ],
         "x": 14,
-        "y": 1079,
-        "w": 952,
-        "h": 162
+        "y": 1079
     },
     {
         "id": "5bf7ccb6c6709633",
@@ -234,9 +228,7 @@
             "36a8ed88d4ee5217"
         ],
         "x": 14,
-        "y": 1299,
-        "w": 1492,
-        "h": 502
+        "y": 1299
     },
     {
         "id": "3b2ecc05f3cef5f7",
@@ -275,9 +267,7 @@
             "8bf4f333b8910d6e"
         ],
         "x": 14,
-        "y": 2639,
-        "w": 932,
-        "h": 462
+        "y": 2639
     },
     {
         "id": "a8bcf74ef7690d27",
@@ -330,9 +320,7 @@
             "84af4b543dc711ed"
         ],
         "x": 4,
-        "y": 1859,
-        "w": 862,
-        "h": 722
+        "y": 1859
     },
     {
         "id": "bc1a6d29708ed7bf",
@@ -775,7 +763,7 @@
         "fieldType": "msg",
         "format": "css",
         "syntax": "mustache",
-        "template": "\nbody{\n    background-color: #ffffff!important;\n    min-width: 100vw;\n    min-height: 100vh;\n}\n\n.input .bp3-input{\n    border-radius: 5px !important;\n}\n\n\n\n\n",
+        "template": "\nbody{\n    background-color: #ffffff!important;\n    \n}\n.canvas {\n  height:inherit !important; \n}\n.container{\n    background-color: #ffffff!important;\n    min-width: 100vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n}\n.login_tabs{\n    min-width: 60vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    border: none !important;\n    padding: 0 !important;\n}\n.login_container{\n    left: 7% !important;\n    top: 10% !important;\n}\n\n.input .bp3-input{\n    border-radius: 5px !important;\n}\n\n.title .bp3-ui-text {\n   font-size: clamp(20px, 2.5vw, 50px) !important; \n   cursor: default !important;\n}\n\n\n",
         "output": "str",
         "x": 260,
         "y": 800,
@@ -5295,7 +5283,7 @@
         "type": "function",
         "z": "c8b39bad946d8ab6",
         "name": "admin_modules",
-        "func": "if(msg.payload.length===0){\n      \n     msg.payload = [\n          { \"name\": \"Start Page\", \"position\": 1, \"icon\": '', \"deleted\": false, \"isParent\": false },\n          { \"name\": \"Dashboard\", \"position\": 2, \"icon\": '', \"deleted\": false, \"isParent\": false },\n          { \"name\": \"Orders\", \"position\": 3, \"icon\": '', \"deleted\": false, \"isParent\": false },\n          { \"name\": \"Administrator\", \"position\": 4, \"icon\": '', \"deleted\": false, \"isParent\": true, \"childModules\": [{ \"name\": \"Modules\", \"page_id\": \"Modules\", \"position\": 1 }, { \"name\": \"AdminRoles\", \"page_id\": \"AdminRoles\", \"position\": 2 }, { \"name\": \"User Management\", \"page_id\": \"User Management\", \"position\": 3 }] }\n     ]\n\n     msg.collection = \"admin_modules\"\n\n     return msg;\n}",
+        "func": "if(msg.payload.length===0){\n      \n     msg.payload = [\n          { \"name\": \"Start Page\", \"position\": 1, \"icon\": '', \"deleted\": false, \"isParent\": false },\n          { \"name\": \"Dashboard\", \"position\": 2, \"icon\": '', \"deleted\": false, \"isParent\": false },\n          { \"name\": \"Orders\", \"position\": 3, \"icon\": '', \"deleted\": false, \"isParent\": false },\n          { \"name\": \"Administrator\", \"position\": 4, \"icon\": '', \"deleted\": false, \"isParent\": true, \"childModules\": [{ \"name\": \"Modules\", \"page_id\": \"Modules\", \"position\": 1 }, { \"name\": \"Roles\", \"page_id\": \"Roles\", \"position\": 2 }, { \"name\": \"User Management\", \"page_id\": \"User Management\", \"position\": 3 }] }\n     ]\n\n     msg.collection = \"admin_modules\"\n\n     return msg;\n}",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
@@ -6327,8 +6315,8 @@
         "type": "function",
         "z": "7b13882ad5aa8e09",
         "name": "save order",
-        "func": "msg.fromSite = msg.payload\nconst convertToKyivTime = global.get('helpers').convertToKyivTime\n// const replaceSymbols = global.get('helpers').replaceSymbols\n\nmsg.collection= 'orders'\nlet products = msg.fromSite.items.map((e, index) => {\n    return {\n        ...e,\n        id: index\n    };\n});\n\nlet reservation_data = JSON.stringify({\n    \"products\": products\n});\nlet totalCost = products.reduce((accumulator, currentItem) => {\n    return accumulator + (currentItem.quantity * (currentItem.price * 100));\n}, 0);\n\nmsg.orderId = objectid();\nmsg.payload = {\n    _id: msg.orderId,\n    createdAt: convertToKyivTime(),\n    order_status: 'obtained from the site',\n    details: msg.fromSite.items,\n    total_cost: Number(totalCost),\n    payment_method: msg.fromSite.payment_method,\n    deleted: false\n}\n\nmsg.order = msg.payload;\nreturn msg;",
-        "outputs": 1,
+        "func": "msg.fromSite = msg.payload\nconst convertToKyivTime = global.get('helpers').convertToKyivTime\n// const replaceSymbols = global.get('helpers').replaceSymbols\n\nmsg.collection= 'orders'\nlet products = msg.fromSite.items.map((e, index) => {\n    return {\n        ...e,\n        id: index\n    };\n});\n\nlet reservation_data = JSON.stringify({\n    \"products\": products\n});\nlet totalCost = products.reduce((accumulator, currentItem) => {\n    return accumulator + (currentItem.quantity * (currentItem.price * 100));\n}, 0);\n\nmsg.orderId = objectid();\n// Перевірка наявності обов'язкових ключів\nif (\n    msg.fromSite.hasOwnProperty('items') &&\n    msg.fromSite.hasOwnProperty('payment_method')\n) {\n    // Розподіл необов'язкових полів у відокремлений об'єкт\n    const optionalFields = {};\n\n    // Ітерація по всіх ключах об'єкта msg.fromSite\n    for (const key in msg.fromSite) {\n        if (msg.fromSite.hasOwnProperty(key)) {\n            // Перевірка, чи ключ не є обов'язковим\n            if (key !== 'items' && key !== 'payment_method') {\n                optionalFields[key] = msg.fromSite[key];\n            }\n        }\n    }\n\n    // Формування об'єкта для msg.payload\n    msg.payload = {\n        _id: msg.orderId,\n        createdAt: convertToKyivTime(),\n        order_status: 'obtained from the site',\n        details: msg.fromSite.items,\n        total_cost: Number(totalCost),\n        payment_method: msg.fromSite.payment_method,\n        deleted: false,\n        ...optionalFields, // Додавання необов'язкових полів до основного об'єкта\n    };\n    msg.order = msg.payload;\n    return [msg, null]\n} else {\n    msg.payload = 'Обов\\'язкові поля відсутні в об\\'єкті'\n    return [null,msg]\n}\n\n\n\n",
+        "outputs": 2,
         "noerr": 0,
         "initialize": "",
         "finalize": "",
@@ -6342,7 +6330,11 @@
         "y": 100,
         "wires": [
             [
-                "4336d8cd0c11aa0e"
+                "4336d8cd0c11aa0e",
+                "7bd36e63bf453dbc"
+            ],
+            [
+                "c521019d1e10b5f1"
             ]
         ]
     },
@@ -6453,7 +6445,8 @@
         "y": 100,
         "wires": [
             [
-                "c53ccffce2ae9cfd"
+                "c53ccffce2ae9cfd",
+                "967056929bbbdcc1"
             ]
         ]
     },
@@ -7041,6 +7034,51 @@
         "headers": {},
         "x": 770,
         "y": 740,
+        "wires": []
+    },
+    {
+        "id": "c521019d1e10b5f1",
+        "type": "http response",
+        "z": "7b13882ad5aa8e09",
+        "name": "",
+        "statusCode": "400",
+        "headers": {},
+        "x": 540,
+        "y": 140,
+        "wires": []
+    },
+    {
+        "id": "7bd36e63bf453dbc",
+        "type": "debug",
+        "z": "7b13882ad5aa8e09",
+        "name": "debug 726",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 530,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "967056929bbbdcc1",
+        "type": "debug",
+        "z": "7b13882ad5aa8e09",
+        "name": "debug 727",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 930,
+        "y": 60,
         "wires": []
     },
     {
@@ -7706,6 +7744,109 @@
         "headers": {},
         "x": 990,
         "y": 220,
+        "wires": []
+    },
+    {
+        "id": "314ccbc582172885",
+        "type": "http in",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "url": "/cardStatistics",
+        "method": "get",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 280,
+        "wires": [
+            [
+                "6a55c953117e0781"
+            ]
+        ]
+    },
+    {
+        "id": "44369f24dd38b75e",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "make chartData",
+        "func": "\nconst totalOrders = msg.payload.total;\n\n\nconst ordersData = [\n    {\n        \"label\": \"Successful\",\n        \"value\": msg.payload.successful.length,\n        \"type\": \"Successful\",\n        \"color\": \"#A8CFCC\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Rejected\",\n        \"value\": msg.payload.rejected.length ,\n        \"type\": \"Rejected\",\n        \"color\": \"#E4734E\",\n        \"borderColor\": \"#000\"\n    },\n    {\n        \"label\": \"Pending\",\n        \"value\": msg.payload.pending.length,\n        \"type\": \"Pending\",\n        \"color\": \"#FFBB23\",\n        \"borderColor\": \"#000\"\n    }\n   \n]\n\n// Створення графіка\nconst chartData = {\n    chartData: [\n        // {\n        //     \"label\": 'Total Orders', value: totalOrders, \"type\": \"4-10\", \"color\": \"#FFEB3B\",\"borderColor\": \"#F44336\" },\n        ...ordersData\n    ],\n    total: totalOrders\n};\n\n\n// Оновлення графіка з новими даними\nmsg.payload = chartData;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 820,
+        "y": 280,
+        "wires": [
+            [
+                "46b03620340c125e"
+            ]
+        ]
+    },
+    {
+        "id": "6a55c953117e0781",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "get orders",
+        "func": "\nmsg.collection = 'orders'\nmsg.payload = {\n      payment_method: \"card\",\n      deleted: false\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 280,
+        "wires": [
+            [
+                "1b50f49e2eda21f8"
+            ]
+        ]
+    },
+    {
+        "id": "1b50f49e2eda21f8",
+        "type": "link call",
+        "z": "42cf3c01bc6c1d41",
+        "name": "find",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 470,
+        "y": 280,
+        "wires": [
+            [
+                "dc439bd4fee098a2"
+            ]
+        ]
+    },
+    {
+        "id": "dc439bd4fee098a2",
+        "type": "function",
+        "z": "42cf3c01bc6c1d41",
+        "name": "group orders",
+        "func": "msg.payload = {\n    pending: msg.payload.filter(e => e.order_status === 'pending' || e.order_status === 'created' || e.order_status === 'processing' || e.order_status === 'obtained from the site'),\n    rejected: msg.payload.filter(e => e.order_status === 'rejected' || e.order_status === 'declined' || e.order_status === 'expired' || e.order_status === 'reversed'),\n    successful: msg.payload.filter(e => e.order_status === 'approved' || e.order_status === 'successful'),\n    total: msg.payload.length\n};\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 630,
+        "y": 280,
+        "wires": [
+            [
+                "44369f24dd38b75e"
+            ]
+        ]
+    },
+    {
+        "id": "46b03620340c125e",
+        "type": "http response",
+        "z": "42cf3c01bc6c1d41",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 990,
+        "y": 280,
         "wires": []
     }
 ]
