@@ -65,103 +65,15 @@
             "612e0a2b392767a6",
             "d223f3d36f46a91d",
             "731ac723f96cc33b",
-            "d805f50510a64b71",
             "110f980283b587bc",
             "b26cafe18475e3cb",
-            "97c44ea10c943cb4",
             "c1c36f3949756248",
             "306adf550fae80e8"
         ],
         "x": 894,
-        "y": 1859,
-        "w": 692,
-        "h": 722
-    },
-    {
-        "id": "d78377c07a215120",
-        "type": "group",
-        "z": "c8b39bad946d8ab6",
-        "name": "Authorization",
-        "style": {
-            "label": true,
-            "color": "#000000"
-        },
-        "nodes": [
-            "5c6e2dd94ba411ce",
-            "672799ed948f1313",
-            "b085f10213c6a2fc",
-            "e594c405f087b6cf",
-            "0608e9f35bdcacf1",
-            "1adb12ad2ffdeb42",
-            "d8b4284445386cd5",
-            "d390b9504c129252",
-            "b457f0b5c3fd5d96",
-            "097b05d6f95dab62",
-            "33a4e3695faf855e",
-            "47a3231e1f267545",
-            "dd3e208dfbba0a56",
-            "265641df05c1ca83",
-            "de79ea462e97e016",
-            "73893182e2e2ed57",
-            "cfc7631182b5ef67",
-            "e8da10b5c113d139",
-            "87b2820c2bf1143e",
-            "21e68f3de4fa527b",
-            "c4baf76948a8dc38",
-            "a602a24988dcc60f",
-            "77f7fee169a929cd",
-            "a1180b2b1b551c2c",
-            "6f81187c8d88e4de",
-            "1a6b5d862a0b4bfc",
-            "ca2dc46c7edc0fb2",
-            "2d9ec1b926f8fb35",
-            "1b7ab9bcbae8961f",
-            "e49d1c22247329f1",
-            "be2ed7f861399f69",
-            "962e2be5ddd19cfc",
-            "a4b43da2c7ab788f",
-            "79c17e7d8ed1f939",
-            "c67252247235be7c",
-            "d8f65e08d1802e8e",
-            "92a82d990292b9c2",
-            "95ce8e1f931c2caa",
-            "b42cb8e11e780105",
-            "9b40d9caf853741d",
-            "7ad3662b16de3eaf",
-            "e653dc9c2aa956f2",
-            "0b6ff6d92b1de7e7",
-            "2a2d93b53c8a1966",
-            "26ad7dce297ad8e7",
-            "e26194f8f4aedcd3",
-            "f2f94b0b491998e3",
-            "e4082ecde347ac24",
-            "9ed90dc87878d5c1",
-            "831f0bc99fde7925",
-            "376f7da2f0d85f32",
-            "9da58b8ba7897ee6",
-            "bb1864602327c1ca",
-            "eed04ab51fe181f6",
-            "6197204f97d99e26",
-            "8c18463582ac198c",
-            "406b08af64a38632",
-            "46d2feb29eb7f617",
-            "ba0fdb3c55f49767",
-            "3b0fca787d0682d1",
-            "99544f5cb03a9f23",
-            "32fb51525caa70d8",
-            "c193a98b11e16770",
-            "f833e1216c97cff7",
-            "d2dc6d60f2aadf80",
-            "62ac94f341138925",
-            "71d0784401d97a30",
-            "6012ab98a19cbb6a",
-            "ccbf43ec2e0f83d7",
-            "c86e4878aeaec2cc"
-        ],
-        "x": 14,
-        "y": 19,
-        "w": 1952,
-        "h": 1022
+        "y": 1879,
+        "w": 652,
+        "h": 702
     },
     {
         "id": "2229ae9934019399",
@@ -176,18 +88,14 @@
             "6d762311464829e7",
             "9a785ddcdaf6df0d",
             "9ef904e08c1b1ac1",
-            "13e4e31799cdc417",
-            "b4488590d344582f",
-            "19089ad57199af39",
-            "5fe531e8c9bf55b6",
             "636a9bb0cdc28a94",
             "85976ad92833929a",
             "a2b1bc579a4c0ced"
         ],
         "x": 14,
-        "y": 1079,
-        "w": 952,
-        "h": 162
+        "y": 1119,
+        "w": 942,
+        "h": 122
     },
     {
         "id": "5bf7ccb6c6709633",
@@ -200,43 +108,33 @@
         },
         "nodes": [
             "970bf1d3e8383bba",
-            "c823a259da378156",
             "2082fa66df328468",
-            "3b262e8c754b5f29",
             "bdbcc19d02a07b56",
             "9c78085fd79972cb",
-            "2eda0c91d0b75786",
             "2687dc71562c4d72",
             "d09ec9996f8a154c",
             "17248297231b9d88",
-            "d8e9faa5f5797221",
             "59a6366d8be0ed5e",
             "a605c9337c4c16d3",
-            "ed02bf967732b00f",
             "97dc27c464c28717",
             "4f97e46839f52868",
-            "d52f6d33dbea5a1b",
             "ddf35fbb3e263951",
             "0d5a011ed0707629",
             "2212b62e77474999",
-            "d32809a33993ab1c",
             "6730dfa61287b9f2",
             "a2eb69e6ad5db371",
             "80ae78b49345f62c",
             "654fcb097eed7e68",
-            "9fe3a92c904e973d",
-            "71ea35313c1e5bbe",
             "d12866b139615b07",
             "45455fa4faeda4c6",
-            "c4d39042ddfb3c4c",
             "ca0b1f9a3c42aad6",
             "7df30165a4d0a7eb",
             "36a8ed88d4ee5217"
         ],
         "x": 14,
-        "y": 1299,
-        "w": 1492,
-        "h": 502
+        "y": 1339,
+        "w": 1412,
+        "h": 462
     },
     {
         "id": "3b2ecc05f3cef5f7",
@@ -253,7 +151,6 @@
             "5189344f4260b4cb",
             "5cc768d59c9037f5",
             "58eb2605635a4f7e",
-            "66961bddfd5aa161",
             "08b7f75f949f6937",
             "258e18ed74ffabde",
             "655fc308a4013906",
@@ -263,21 +160,17 @@
             "90ea91af87880852",
             "47d7659c57682dc5",
             "0148d4c43311575a",
-            "edf7b992521b758b",
             "bfda0ffbb10779bc",
             "0ad420bdb40c7f48",
-            "44c147950358453b",
             "0107039c4340e3b2",
-            "e82f14a9819d4d19",
             "37630c5145f4933f",
             "4c2bfcca94198e63",
-            "97840b426439aec0",
-            "8bf4f333b8910d6e"
+            "97840b426439aec0"
         ],
         "x": 14,
-        "y": 2639,
+        "y": 2659,
         "w": 932,
-        "h": 462
+        "h": 402
     },
     {
         "id": "a8bcf74ef7690d27",
@@ -306,62 +199,27 @@
             "8886a378d607c9c3",
             "cdf04d878afee1d5",
             "5cbf5ba2c4c74a4f",
-            "64d32109fbb50503",
-            "149aa57b044f0aac",
             "b473ee4234249f14",
             "620b6e5d1c9e4858",
             "d868f70232c05f3c",
             "382da0ed3f1de901",
             "411b69c681820b0e",
             "500861a5b5623bc5",
-            "cd5c1d01d15467f7",
             "81bdba71023d5429",
             "3000e64189b3ff39",
-            "943cda0940fbfc65",
             "6d5c9e567735125f",
             "0d8e4b5e24ee7f2c",
             "080f87898258c1e5",
             "3835bedd5b59284c",
-            "acef5e4ee852a34b",
             "920e683749d9b015",
             "7001dd6d6d4622d6",
             "ae293692fead8475",
-            "732470b6749e6a6e",
-            "84af4b543dc711ed"
+            "732470b6749e6a6e"
         ],
         "x": 4,
         "y": 1859,
-        "w": 862,
+        "w": 722,
         "h": 722
-    },
-    {
-        "id": "bc1a6d29708ed7bf",
-        "type": "group",
-        "z": "c740254358c79788",
-        "style": {
-            "stroke": "#999999",
-            "stroke-opacity": "1",
-            "fill": "none",
-            "fill-opacity": "1",
-            "label": true,
-            "label-position": "nw",
-            "color": "#a4a4a4"
-        },
-        "nodes": [
-            "f238790cdeb0e06a",
-            "229fbbb1211e2859",
-            "f03d93b1443bacb6",
-            "8de06fcccb1aea88",
-            "f28d7ee04c24ec6f",
-            "97be0fc0bd78363f",
-            "c208b3d7a17e54e2",
-            "0135c9207abeab77",
-            "6ce519452e66d70c"
-        ],
-        "x": 54,
-        "y": 479,
-        "w": 872,
-        "h": 162
     },
     {
         "id": "a37ab3c2d5e20f98",
@@ -416,6 +274,63 @@
         "h": 202
     },
     {
+        "id": "d78377c07a215120",
+        "type": "group",
+        "z": "c8b39bad946d8ab6",
+        "name": "Authorization",
+        "style": {
+            "label": true,
+            "color": "#000000"
+        },
+        "nodes": [
+            "5c6e2dd94ba411ce",
+            "672799ed948f1313",
+            "b085f10213c6a2fc",
+            "e594c405f087b6cf",
+            "0608e9f35bdcacf1",
+            "1adb12ad2ffdeb42",
+            "d390b9504c129252",
+            "b457f0b5c3fd5d96",
+            "097b05d6f95dab62",
+            "dd3e208dfbba0a56",
+            "265641df05c1ca83",
+            "de79ea462e97e016",
+            "73893182e2e2ed57",
+            "cfc7631182b5ef67",
+            "a602a24988dcc60f",
+            "6f81187c8d88e4de",
+            "1a6b5d862a0b4bfc",
+            "ca2dc46c7edc0fb2",
+            "e49d1c22247329f1",
+            "962e2be5ddd19cfc",
+            "79c17e7d8ed1f939",
+            "c67252247235be7c",
+            "d8f65e08d1802e8e",
+            "92a82d990292b9c2",
+            "e653dc9c2aa956f2",
+            "0b6ff6d92b1de7e7",
+            "f2f94b0b491998e3",
+            "e4082ecde347ac24",
+            "831f0bc99fde7925",
+            "376f7da2f0d85f32",
+            "9da58b8ba7897ee6",
+            "bb1864602327c1ca",
+            "eed04ab51fe181f6",
+            "406b08af64a38632",
+            "46d2feb29eb7f617",
+            "ba0fdb3c55f49767",
+            "99544f5cb03a9f23",
+            "32fb51525caa70d8",
+            "d2dc6d60f2aadf80",
+            "71d0784401d97a30",
+            "6012ab98a19cbb6a"
+        ],
+        "x": 14,
+        "y": 59,
+        "w": 1932,
+        "h": 942
+    },
+    {
         "id": "f168eeb2f9b6dc07",
         "type": "mongodb",
         "hostname": "${fondydb-host}",
@@ -434,169 +349,6 @@
         "port": "27017",
         "db": "${fondydb-db}",
         "name": ""
-    },
-    {
-        "id": "f238790cdeb0e06a",
-        "type": "http in",
-        "z": "c740254358c79788",
-        "d": true,
-        "g": "bc1a6d29708ed7bf",
-        "name": "",
-        "url": "/uploadFile",
-        "method": "post",
-        "upload": true,
-        "swaggerDoc": "",
-        "x": 160,
-        "y": 600,
-        "wires": [
-            [
-                "f03d93b1443bacb6"
-            ]
-        ]
-    },
-    {
-        "id": "229fbbb1211e2859",
-        "type": "http response",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 690,
-        "y": 600,
-        "wires": []
-    },
-    {
-        "id": "f03d93b1443bacb6",
-        "type": "function",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "set buffer",
-        "func": "msg.payload = msg.req.files[0].buffer\n// msg.filepath = '/data/default/'+ msg.req.query.fileName\nmsg.filepath = '/data/default/' + msg.req.files[0].originalname\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 360,
-        "y": 600,
-        "wires": [
-            [
-                "8de06fcccb1aea88"
-            ]
-        ]
-    },
-    {
-        "id": "8de06fcccb1aea88",
-        "type": "file",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "",
-        "filename": "filepath",
-        "filenameType": "msg",
-        "appendNewline": true,
-        "createDir": true,
-        "overwriteFile": "true",
-        "encoding": "none",
-        "x": 540,
-        "y": 600,
-        "wires": [
-            [
-                "229fbbb1211e2859"
-            ]
-        ]
-    },
-    {
-        "id": "f28d7ee04c24ec6f",
-        "type": "http in",
-        "z": "c740254358c79788",
-        "d": true,
-        "g": "bc1a6d29708ed7bf",
-        "name": "",
-        "url": "/file/:file",
-        "method": "get",
-        "upload": true,
-        "swaggerDoc": "",
-        "x": 150,
-        "y": 520,
-        "wires": [
-            [
-                "c208b3d7a17e54e2"
-            ]
-        ]
-    },
-    {
-        "id": "97be0fc0bd78363f",
-        "type": "http response",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 850,
-        "y": 520,
-        "wires": []
-    },
-    {
-        "id": "c208b3d7a17e54e2",
-        "type": "function",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "set filepath",
-        "func": "msg.filepath = `/data/default/${msg.req.params.file}`\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 370,
-        "y": 520,
-        "wires": [
-            [
-                "0135c9207abeab77"
-            ]
-        ]
-    },
-    {
-        "id": "0135c9207abeab77",
-        "type": "file in",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "",
-        "filename": "filepath",
-        "filenameType": "msg",
-        "format": "",
-        "chunk": false,
-        "sendError": false,
-        "encoding": "none",
-        "allProps": false,
-        "x": 540,
-        "y": 520,
-        "wires": [
-            [
-                "6ce519452e66d70c"
-            ]
-        ]
-    },
-    {
-        "id": "6ce519452e66d70c",
-        "type": "function",
-        "z": "c740254358c79788",
-        "g": "bc1a6d29708ed7bf",
-        "name": "headers",
-        "func": "msg.headers = {\n    'content-type': 'image/jpeg'\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 700,
-        "y": 520,
-        "wires": [
-            [
-                "97be0fc0bd78363f"
-            ]
-        ]
     },
     {
         "id": "cf3a1b1c08af9e02",
@@ -647,59 +399,6 @@
         ]
     },
     {
-        "id": "4f4267dc1221a3a2",
-        "type": "inject",
-        "z": "c740254358c79788",
-        "d": true,
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 720,
-        "wires": [
-            [
-                "802b612aa6ef27e0"
-            ]
-        ]
-    },
-    {
-        "id": "802b612aa6ef27e0",
-        "type": "http request",
-        "z": "c740254358c79788",
-        "d": true,
-        "name": "",
-        "method": "GET",
-        "ret": "txt",
-        "paytoqs": "ignore",
-        "url": "https://demo3.servio.support/sb_stend/",
-        "tls": "",
-        "persist": false,
-        "proxy": "",
-        "insecureHTTPParser": false,
-        "authType": "basic",
-        "senderr": false,
-        "headers": [],
-        "x": 310,
-        "y": 720,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "2c3eedcffea1403b",
         "type": "function",
         "z": "c740254358c79788",
@@ -728,8 +427,8 @@
         "method": "get",
         "upload": false,
         "swaggerDoc": "",
-        "x": 120,
-        "y": 800,
+        "x": 760,
+        "y": 80,
         "wires": [
             [
                 "efe9fe1b92292e23"
@@ -745,8 +444,8 @@
         "headers": {
             "content-type": "text/css"
         },
-        "x": 390,
-        "y": 800,
+        "x": 1030,
+        "y": 80,
         "wires": []
     },
     {
@@ -760,8 +459,8 @@
         "syntax": "mustache",
         "template": "\nbody section{\n    background-color: #ffffff!important;\n}\n.canvas {\n  height:inherit !important; \n}\n.container{\n    background-color: #ffffff!important;\n    min-width: 100vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n}\n.login_tabs{\n    min-width: 60vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    border: none !important;\n    padding: 0 !important;\n}\n.login_container{\n    left: 7% !important;\n    top: 10% !important;\n}\n\n.input .bp3-input{\n    border-radius: 5px !important;\n}\n\n.title .bp3-ui-text {\n   font-size: clamp(20px, 2.5vw, 50px) !important; \n   cursor: default !important;\n    -webkit-text-stroke: 1px #f27f71;\n}\n\n.sidebar{\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    padding: 0px !important;\n    width: 160px !important;\n}\n.header{\n   top: 0 !important;\n   left: 167px !important;\n   padding: 0px !important; \n   width: calc(100% - 160px) !important;\n}\n.accordion .bp3-button:not([class*=bp3-intent-]) {\n    box-shadow: inset 0 0 0 1px rgba(16,22,26,.2), inset 0 -1px 0 rgba(16,22,26,.1);\n}\n.accordion .bp3-button.active, .sub_category.active{\n    background-color: rgba(245, 163, 142, 0.325) !important;\n}\n.small_container{\n    top: 60px !important;\n    left: 167px  !important;\n    padding: 0px !important;\n    width: calc(100% - 160px) !important;\n    \n}\n.strt_container{\n    left: 13%  !important;\n}\n.t--widget-accordionwidget, .logo{\n    left: 1px !important;\n    width: 100% !important;\n}\n.input_url .bp3-input:disabled{\nbackground-color: #ffffff !important;\ncolor: #000000 !important;\n}\n.input_url .bp3-label {\ncolor: #000000 !important;\n}\n.json{\n    padding-left: 40px;\n}\n/* _____________DASHBOARD_________________ */\n\n.dashboard_btn{\n    border: 2px solid #FCCBC4;\n    border-radius: 5px;\n    cursor: pointer !important;\n    padding: 10px !important;\n    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px !important;\n}\n.dashboard_btn:hover{\n    border: 2px solid #f58181;\n    box-shadow: none !important;\n}\n.dashboard_btn span{\n    cursor: pointer !important;\n}",
         "output": "str",
-        "x": 260,
-        "y": 800,
+        "x": 900,
+        "y": 80,
         "wires": [
             [
                 "27ddc948c4bf9c17"
@@ -975,44 +674,6 @@
         "wires": []
     },
     {
-        "id": "71d0784401d97a30",
-        "type": "http in",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "registration",
-        "url": "/registration",
-        "method": "post",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 100,
-        "y": 480,
-        "wires": [
-            [
-                "f2f94b0b491998e3",
-                "e26194f8f4aedcd3"
-            ]
-        ],
-        "icon": "node-red/arrow-in.svg"
-    },
-    {
-        "id": "ccbf43ec2e0f83d7",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 650,
-        "y": 400,
-        "wires": []
-    },
-    {
         "id": "04ab9e97bf9e23e7",
         "type": "function",
         "z": "c8b39bad946d8ab6",
@@ -1091,7 +752,7 @@
         "statusCode": "",
         "headers": {},
         "x": 1470,
-        "y": 1940,
+        "y": 1920,
         "wires": []
     },
     {
@@ -1203,8 +864,7 @@
         "y": 1920,
         "wires": [
             [
-                "fe134326442270d0",
-                "d805f50510a64b71"
+                "fe134326442270d0"
             ]
         ]
     },
@@ -1448,24 +1108,6 @@
         "wires": []
     },
     {
-        "id": "d805f50510a64b71",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "81031a41452292e5",
-        "name": "all Roles",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1480,
-        "y": 1900,
-        "wires": []
-    },
-    {
         "id": "110f980283b587bc",
         "type": "function",
         "z": "c8b39bad946d8ab6",
@@ -1500,28 +1142,9 @@
         "y": 2020,
         "wires": [
             [
-                "c1c36f3949756248",
-                "97c44ea10c943cb4"
+                "c1c36f3949756248"
             ]
         ]
-    },
-    {
-        "id": "97c44ea10c943cb4",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "81031a41452292e5",
-        "name": "all roles",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1480,
-        "y": 2000,
-        "wires": []
     },
     {
         "id": "c1c36f3949756248",
@@ -1532,7 +1155,7 @@
         "statusCode": "",
         "headers": {},
         "x": 1470,
-        "y": 2040,
+        "y": 2020,
         "wires": []
     },
     {
@@ -1731,8 +1354,7 @@
         "y": 2520,
         "wires": [
             [
-                "98b2c82db768e5e1",
-                "64d32109fbb50503"
+                "98b2c82db768e5e1"
             ]
         ],
         "icon": "font-awesome/fa-remove"
@@ -1863,42 +1485,6 @@
         ]
     },
     {
-        "id": "64d32109fbb50503",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "a8bcf74ef7690d27",
-        "name": "came",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 350,
-        "y": 2480,
-        "wires": []
-    },
-    {
-        "id": "149aa57b044f0aac",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "a8bcf74ef7690d27",
-        "name": "came",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 350,
-        "y": 2380,
-        "wires": []
-    },
-    {
         "id": "b473ee4234249f14",
         "type": "link call",
         "z": "c8b39bad946d8ab6",
@@ -1929,8 +1515,7 @@
         "y": 2420,
         "wires": [
             [
-                "d868f70232c05f3c",
-                "149aa57b044f0aac"
+                "d868f70232c05f3c"
             ]
         ],
         "icon": "font-awesome/fa-edit"
@@ -2052,7 +1637,6 @@
         "y": 2700,
         "wires": [
             [
-                "66961bddfd5aa161",
                 "58eb2605635a4f7e"
             ]
         ]
@@ -2066,25 +1650,7 @@
         "statusCode": "",
         "headers": {},
         "x": 650,
-        "y": 2720,
-        "wires": []
-    },
-    {
-        "id": "66961bddfd5aa161",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "3b2ecc05f3cef5f7",
-        "name": "all users",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 660,
-        "y": 2680,
+        "y": 2700,
         "wires": []
     },
     {
@@ -2210,1304 +1776,6 @@
         ]
     },
     {
-        "id": "5c6e2dd94ba411ce",
-        "type": "http in",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "login",
-        "url": "/login",
-        "method": "post",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 90,
-        "y": 120,
-        "wires": [
-            [
-                "672799ed948f1313",
-                "1b7ab9bcbae8961f"
-            ]
-        ],
-        "icon": "node-red/arrow-in.svg"
-    },
-    {
-        "id": "672799ed948f1313",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check",
-        "func": "const regexEmail = /^(([^<>()[\\]\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@(([^<>()[\\]\\.,;:\\s@\\\"]+\\.)+[^<>()[\\]\\.,;:\\s@\\\"]{2,})$/i;\nconst regexPassword = /^(?!.*\\s).{8,}/;\nconst email = msg.payload.email.toLowerCase();\n\nif (!regexEmail.test(email)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"Email is invalid\",\n        code: 401\n    }\n\n    return [null, msg];\n\n} else if (!regexPassword.test(msg.payload.password)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"The password is invalid. The value must be at least 8 characters and without whitespaces\",\n        code: 401\n    }\n\n    return [null, msg];\n    \n} else {\n    msg.collection = \"admins\"\n    msg.fromApp = msg.payload\n\n    node.warn(msg.fromApp)\n\n    msg.payload = {\n        email: email,\n        deleted: false,\n        active: true\n    }\n\n    return [msg, null];\n}",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 330,
-        "y": 120,
-        "wires": [
-            [
-                "d8f65e08d1802e8e",
-                "9b40d9caf853741d"
-            ],
-            [
-                "769c853fb108cedb",
-                "53cd8649fa65084f"
-            ]
-        ]
-    },
-    {
-        "id": "b085f10213c6a2fc",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 1230,
-        "y": 100,
-        "wires": []
-    },
-    {
-        "id": "e594c405f087b6cf",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check auth",
-        "func": "\nif(msg.payload.length === 0){\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"Incorrect email or password\",\n        code:401\n    }\n    node.warn(\"Email not found\");\n    return [null,msg]\n} else {\n\n    let check = await bcrypt.compare(msg.fromApp.password, msg.payload[0].password);\n\n    if (!check) {\n        msg.statusCode = 401;\n        msg.payload = {\n            data: \"Incorrect email or password\",\n            code: 401\n        }\n        node.warn(\"Password incorrect\");\n        return [null, msg]\n    }\n\n    if (msg.payload[0].active === false) {\n        msg.statusCode = 401;\n        msg.payload = {\n            data: \"Email not activated\",\n            code: 401\n        }\n        return [null, msg]\n    }\n}\n\n\n\nreturn[msg,null]",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "bcrypt",
-                "module": "bcrypt"
-            }
-        ],
-        "x": 850,
-        "y": 120,
-        "wires": [
-            [
-                "1adb12ad2ffdeb42",
-                "77f7fee169a929cd"
-            ],
-            [
-                "0608e9f35bdcacf1",
-                "a1180b2b1b551c2c"
-            ]
-        ]
-    },
-    {
-        "id": "0608e9f35bdcacf1",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 1050,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "1adb12ad2ffdeb42",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "jwt token",
-        "func": "msg.payload = msg.payload[0]\nconst token = jwt.sign(\n    { user_id: msg.payload._id, email:msg.payload.email },\n    \"fGh2W42l\",\n    {\n        expiresIn: \"30d\",\n    }\n);\n\nmsg.cookies = {};\nmsg.cookies[\"user_token\"] = token;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "jwt",
-                "module": "jsonwebtoken"
-            }
-        ],
-        "x": 1060,
-        "y": 100,
-        "wires": [
-            [
-                "b085f10213c6a2fc",
-                "d8b4284445386cd5"
-            ]
-        ]
-    },
-    {
-        "id": "d8b4284445386cd5",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1230,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "d390b9504c129252",
-        "type": "http in",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "checkToken",
-        "url": "/checkToken",
-        "method": "post",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 110,
-        "y": 860,
-        "wires": [
-            [
-                "097b05d6f95dab62",
-                "47a3231e1f267545"
-            ]
-        ],
-        "icon": "node-red/arrow-in.svg"
-    },
-    {
-        "id": "b457f0b5c3fd5d96",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "401",
-        "headers": {},
-        "x": 1040,
-        "y": 900,
-        "wires": []
-    },
-    {
-        "id": "097b05d6f95dab62",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check jwt",
-        "func": "msg.check = msg.payload;\nconst decoded = jwt.verify(msg.payload.token, 'fGh2W42l');\nmsg.payload = decoded\n\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "jwt",
-                "module": "jsonwebtoken"
-            }
-        ],
-        "x": 320,
-        "y": 860,
-        "wires": [
-            [
-                "33a4e3695faf855e",
-                "73893182e2e2ed57"
-            ]
-        ]
-    },
-    {
-        "id": "33a4e3695faf855e",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 490,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "47a3231e1f267545",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "Checker",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 320,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "dd3e208dfbba0a56",
-        "type": "catch",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "scope": [
-            "097b05d6f95dab62"
-        ],
-        "uncaught": false,
-        "x": 90,
-        "y": 960,
-        "wires": [
-            [
-                "265641df05c1ca83",
-                "21e68f3de4fa527b"
-            ]
-        ]
-    },
-    {
-        "id": "265641df05c1ca83",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "func": "msg.payload = {\n    auth: \"Unautorizate\",\n    code: 401,\n    login_id: msg.check.login_id,\n    app_id: msg.check.app_id\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 270,
-        "y": 960,
-        "wires": [
-            [
-                "de79ea462e97e016",
-                "e8da10b5c113d139"
-            ]
-        ]
-    },
-    {
-        "id": "de79ea462e97e016",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 430,
-        "y": 960,
-        "wires": []
-    },
-    {
-        "id": "73893182e2e2ed57",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check",
-        "func": "msg.collection = \"admins\"\nmsg.fromApp = msg.payload\nmsg.payload = {\n    // email : msg.fromApp.email,\n    _id: objectid(msg.payload.user_id),\n    deleted:false\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "objectid",
-                "module": "objectid"
-            }
-        ],
-        "x": 490,
-        "y": 860,
-        "wires": [
-            [
-                "1a6b5d862a0b4bfc",
-                "26ad7dce297ad8e7"
-            ]
-        ]
-    },
-    {
-        "id": "cfc7631182b5ef67",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check auth",
-        "func": "\nif(msg.payload.length > 0){\n    msg.payload = msg.payload[0]\n    msg.user = {\n        auth: \"Success\",\n        code:200,\n        user: msg.payload\n    }\n    return [msg,null]\n}else{\n    msg.payload = {\n        auth: \"Unautorizate\",\n        code: 401,\n        login_id:msg.check.login_id,\n        app_id:msg.check.app_id\n    }\n    return [null,msg]\n}\n\n",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 870,
-        "y": 860,
-        "wires": [
-            [
-                "95ce8e1f931c2caa",
-                "92a82d990292b9c2"
-            ],
-            [
-                "b457f0b5c3fd5d96"
-            ]
-        ]
-    },
-    {
-        "id": "e8da10b5c113d139",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 430,
-        "y": 1000,
-        "wires": []
-    },
-    {
-        "id": "87b2820c2bf1143e",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1870,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "21e68f3de4fa527b",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 270,
-        "y": 1000,
-        "wires": []
-    },
-    {
-        "id": "c4baf76948a8dc38",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 850,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "a602a24988dcc60f",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 1870,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "77f7fee169a929cd",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1050,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "a1180b2b1b551c2c",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "err login",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1060,
-        "y": 200,
-        "wires": []
-    },
-    {
-        "id": "6f81187c8d88e4de",
-        "type": "link call",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "links": [
-            "346e518816416d1d"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 640,
-        "y": 120,
-        "wires": [
-            [
-                "e594c405f087b6cf",
-                "b42cb8e11e780105"
-            ]
-        ]
-    },
-    {
-        "id": "1a6b5d862a0b4bfc",
-        "type": "link call",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "links": [
-            "346e518816416d1d"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 660,
-        "y": 860,
-        "wires": [
-            [
-                "cfc7631182b5ef67",
-                "c4baf76948a8dc38"
-            ]
-        ]
-    },
-    {
-        "id": "ca2dc46c7edc0fb2",
-        "type": "link call",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "links": [
-            "b7c366424b9b7e6e"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 1200,
-        "y": 820,
-        "wires": [
-            [
-                "2d9ec1b926f8fb35",
-                "0cfa0691dcae508d"
-            ]
-        ]
-    },
-    {
-        "id": "2d9ec1b926f8fb35",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "THIS",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1410,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "1b7ab9bcbae8961f",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "fromApp",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 320,
-        "y": 60,
-        "wires": []
-    },
-    {
-        "id": "e49d1c22247329f1",
-        "type": "http in",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "signout",
-        "url": "/signout",
-        "method": "post",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 90,
-        "y": 320,
-        "wires": [
-            [
-                "79c17e7d8ed1f939",
-                "a4b43da2c7ab788f"
-            ]
-        ],
-        "icon": "node-red/arrow-in.svg"
-    },
-    {
-        "id": "be2ed7f861399f69",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "Checker",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 500,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "962e2be5ddd19cfc",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 670,
-        "y": 320,
-        "wires": []
-    },
-    {
-        "id": "a4b43da2c7ab788f",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "Checker",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 320,
-        "y": 280,
-        "wires": []
-    },
-    {
-        "id": "79c17e7d8ed1f939",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check jwt",
-        "func": "msg.cookies={\n    user_token: null\n}\n\nmsg.payload={\n    success: true\n}\n\nreturn msg;\n",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 320,
-        "y": 320,
-        "wires": [
-            [
-                "be2ed7f861399f69",
-                "c67252247235be7c"
-            ]
-        ]
-    },
-    {
-        "id": "c67252247235be7c",
-        "type": "delay",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "2",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "outputs": 1,
-        "x": 500,
-        "y": 320,
-        "wires": [
-            [
-                "962e2be5ddd19cfc"
-            ]
-        ]
-    },
-    {
-        "id": "d8f65e08d1802e8e",
-        "type": "delay",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "pauseType": "delay",
-        "timeout": "2",
-        "timeoutUnits": "seconds",
-        "rate": "1",
-        "nbRateUnits": "1",
-        "rateUnits": "second",
-        "randomFirst": "1",
-        "randomLast": "5",
-        "randomUnits": "seconds",
-        "drop": false,
-        "allowrate": false,
-        "outputs": 1,
-        "x": 480,
-        "y": 120,
-        "wires": [
-            [
-                "6f81187c8d88e4de",
-                "7ad3662b16de3eaf"
-            ]
-        ]
-    },
-    {
-        "id": "92a82d990292b9c2",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "get roles",
-        "func": "msg.collection = \"admin_roles\"\nmsg.payload = [\n    {\n        $match:{\n            \"_id\": ObjectId(msg.payload.roles)\n        }\n    },\n    {\n        $lookup: {\n            from: 'translation',\n            as: 'translation',\n            pipeline: [\n                {\n                    $match: {\n                        deleted: false,\n                        language: msg.user.user.language\n                    }\n                }\n            ]\n        }\n    },\n    {\n        $lookup:\n        {\n            from: \"admin_modules\",\n            localField: \"permissions.moduleId\",\n            foreignField: \"_id\",\n            as: \"menu\"\n    }\n},\n]\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "ObjectId",
-                "module": "objectid"
-            }
-        ],
-        "x": 1040,
-        "y": 820,
-        "wires": [
-            [
-                "ca2dc46c7edc0fb2"
-            ]
-        ]
-    },
-    {
-        "id": "95ce8e1f931c2caa",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1030,
-        "y": 780,
-        "wires": []
-    },
-    {
-        "id": "b42cb8e11e780105",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg from db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 850,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "9b40d9caf853741d",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 500,
-        "y": 80,
-        "wires": []
-    },
-    {
-        "id": "7ad3662b16de3eaf",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg delay to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 680,
-        "y": 160,
-        "wires": []
-    },
-    {
-        "id": "e653dc9c2aa956f2",
-        "type": "catch",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "g",
-        "scope": [
-            "92a82d990292b9c2"
-        ],
-        "uncaught": false,
-        "x": 1470,
-        "y": 860,
-        "wires": [
-            [
-                "0b6ff6d92b1de7e7"
-            ]
-        ]
-    },
-    {
-        "id": "0b6ff6d92b1de7e7",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "show err Unautorizate",
-        "func": "msg.payload ={\n    auth: \"Unautorizate\",\n    code: 401,\n    login_id: msg.check.login_id,\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 1660,
-        "y": 860,
-        "wires": [
-            [
-                "a602a24988dcc60f",
-                "2a2d93b53c8a1966"
-            ]
-        ]
-    },
-    {
-        "id": "2a2d93b53c8a1966",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1870,
-        "y": 860,
-        "wires": []
-    },
-    {
-        "id": "26ad7dce297ad8e7",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "query to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 670,
-        "y": 820,
-        "wires": []
-    },
-    {
-        "id": "e26194f8f4aedcd3",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 290,
-        "y": 420,
-        "wires": []
-    },
-    {
-        "id": "f2f94b0b491998e3",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check ",
-        "func": "const regexEmail = /^(([^<>()[\\]\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@(([^<>()[\\]\\.,;:\\s@\\\"]+\\.)+[^<>()[\\]\\.,;:\\s@\\\"]{2,})$/i;\nconst regexPassword = /^(?!.*\\s).{8,}/;\nconst email = msg.payload.email.toLowerCase();\n\nif (!regexEmail.test(email)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"Email is invalid\",\n        code: 401\n    }\n\n    return [null, msg];\n\n} else if (!regexPassword.test(msg.payload.password)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"The password is invalid. The value must be at least 8 characters and without whitespaces\",\n        code: 401\n    }\n\n    return [null, msg];\n\n} else {\n    msg.collection = \"admins\";\n    msg.oldpayload = msg.payload;\n\n    msg.payload = {\n        email: email,\n        deleted: false\n    };\n\n    return [msg, null];\n}",
-        "outputs": 2,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 310,
-        "y": 480,
-        "wires": [
-            [
-                "e4082ecde347ac24",
-                "9ed90dc87878d5c1"
-            ],
-            [
-                "82bf44e646ff81c1",
-                "3d2a6611794a1aab"
-            ]
-        ]
-    },
-    {
-        "id": "e4082ecde347ac24",
-        "type": "link call",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "links": [
-            "346e518816416d1d"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 460,
-        "y": 460,
-        "wires": [
-            [
-                "831f0bc99fde7925",
-                "ccbf43ec2e0f83d7"
-            ]
-        ]
-    },
-    {
-        "id": "9ed90dc87878d5c1",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 460,
-        "y": 420,
-        "wires": []
-    },
-    {
-        "id": "831f0bc99fde7925",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "check",
-        "func": "if (msg.payload.length > 0) {\n    if (!msg.payload[0].active) {\n        const decoded = jwt.verify(msg.payload[0].verifyToken, 'fGh2W42l');\n        const dateNow = new Date().getTime();\n\n        if (decoded.exp < dateNow) {\n            msg.query = { _id: objectid(msg.payload[0]._id) }\n            msg.payload = {\n                $set: {\n                    deleted: false\n                }\n            }\n\n            return [null, null, msg, null]\n        } else {\n            msg.payload = {\n                verifyToken: msg.payload[0].verifyToken,\n                email: msg.payload[0].email\n            }\n\n            return [null, null, null, msg]\n        }\n    } else {\n        msg.payload = {\n            data: \"This email address already exists\",\n            code: 400,\n        }\n        return [null, msg, null, null]\n    }\n}\nelse {\n    return [msg, null, null, null]\n}\n\n\n",
-        "outputs": 4,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "jwt",
-                "module": "jsonwebtoken"
-            },
-            {
-                "var": "objectid",
-                "module": "objectid"
-            }
-        ],
-        "x": 650,
-        "y": 460,
-        "wires": [
-            [
-                "376f7da2f0d85f32"
-            ],
-            [
-                "9da58b8ba7897ee6"
-            ],
-            [
-                "6012ab98a19cbb6a"
-            ],
-            [
-                "eed04ab51fe181f6"
-            ]
-        ]
-    },
-    {
-        "id": "376f7da2f0d85f32",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "registration user",
-        "func": "let randomColor = \"#\" + Math.floor(Math.random() * 16777215).toString(16);\nlet encryptedPassword = await bcrypt.hash(msg.oldpayload.password, 10);\nconst verifyToken = await jwt.sign(\n    { id: Math.round(Math.random()) },\n    \"fGh2W42l\",\n    {\n        expiresIn: \"30d\",\n    }\n);\n\n\nmsg.cookies = {};\nmsg.cookies[\"verify_token\"] = verifyToken;\nmsg.cookies[\"email_register\"] = msg.oldpayload.email;\n\nmsg.payload = {\n    \"_id\": objectid(),\n    \"deleted\": false,\n    \"avatarColor\": randomColor,\n    \"createdAt\": new Date(),\n    \"roles\": \"admin\",\n    \"role\": \"admin\",\n    \"active\": true,\n    // \"firstname\": msg.oldpayload.firstname,\n    // \"lastname\": msg.oldpayload.lastname,\n    \"email\": msg.oldpayload.email.toLowerCase(),\n    \"password\": encryptedPassword,\n    verifyToken,\n    resetPassToken: \"\",\n    resetPassExpireToken: null\n}\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "objectid",
-                "module": "objectid"
-            },
-            {
-                "var": "bcrypt",
-                "module": "bcrypt"
-            },
-            {
-                "var": "jwt",
-                "module": "jsonwebtoken"
-            }
-        ],
-        "x": 1040,
-        "y": 420,
-        "wires": [
-            [
-                "eed04ab51fe181f6",
-                "6197204f97d99e26",
-                "bb1864602327c1ca"
-            ]
-        ]
-    },
-    {
-        "id": "9da58b8ba7897ee6",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "400",
-        "headers": {},
-        "x": 860,
-        "y": 440,
-        "wires": []
-    },
-    {
-        "id": "bb1864602327c1ca",
-        "type": "link call",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "links": [
-            "1764f8568a80ddbd"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 1230,
-        "y": 420,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "eed04ab51fe181f6",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg to email",
-        "func": "const token = msg.payload.verifyToken;\nconst back = env.get(\"back\");\nconst url = `${back}/verifyToken?token=${token}`;\nconst text = `\n<div style=\"padding: 10px 0; color: black;\">\n    <h1>Confirm Your Email Address</h1>\n    <p>Tap the button below to confirm your email address. If you didn't create an account, you can delete this email.</p>\n    <a href=\"${url}\" target=\"_blank\" style=\"margin: 10px 0; display: inline-block; padding: 16px 36px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; border-radius: 6px; background: #95e4f0;\">Confirm</a>\n</div>\n`;\n\nmsg.to = msg.payload.email;\nmsg.topic = 'Verify';\nmsg.payload = text;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "jwt",
-                "module": "jsonwebtoken"
-            }
-        ],
-        "x": 1250,
-        "y": 500,
-        "wires": [
-            [
-                "8c18463582ac198c",
-                "406b08af64a38632"
-            ]
-        ]
-    },
-    {
-        "id": "6197204f97d99e26",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "verified token",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1250,
-        "y": 380,
-        "wires": []
-    },
-    {
-        "id": "8c18463582ac198c",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg to email",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1430,
-        "y": 460,
-        "wires": []
-    },
-    {
-        "id": "406b08af64a38632",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 1410,
-        "y": 540,
-        "wires": []
-    },
-    {
-        "id": "46d2feb29eb7f617",
-        "type": "http in",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "repeatRegisterEmail",
-        "url": "/repeatRegisterEmail",
-        "method": "post",
-        "upload": false,
-        "swaggerDoc": "",
-        "x": 130,
-        "y": 660,
-        "wires": [
-            [
-                "ba0fdb3c55f49767",
-                "3b0fca787d0682d1"
-            ]
-        ],
-        "icon": "node-red/arrow-in.svg"
-    },
-    {
-        "id": "ba0fdb3c55f49767",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "email and token",
-        "func": "msg.payload = {\n    verifyToken: msg.req.cookies.verify_token,\n    email: msg.req.cookies.email_register.toLowerCase()\n}\nmsg.email = msg.req.cookies.email_register.toLowerCase();\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 340,
-        "y": 660,
-        "wires": [
-            [
-                "f833e1216c97cff7",
-                "32fb51525caa70d8"
-            ]
-        ]
-    },
-    {
-        "id": "3b0fca787d0682d1",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "came",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 310,
-        "y": 700,
-        "wires": []
-    },
-    {
-        "id": "99544f5cb03a9f23",
-        "type": "http response",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "statusCode": "",
-        "headers": {},
-        "x": 870,
-        "y": 700,
-        "wires": []
-    },
-    {
-        "id": "32fb51525caa70d8",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg to email",
-        "func": "const token = msg.payload.verifyToken;\nconst back = env.get(\"back\");\nconst url = `${back}/verifyToken?token=${token}`;\nconst text = `\n<div style=\"padding: 10px 0; color: black;\">\n    <h1>Confirm Your Email Address</h1>\n    <p>Tap the button below to confirm your email address. If you didn't create an account, you can delete this email.</p>\n    <a href=\"${url}\" target=\"_blank\" style=\"margin: 10px 0; display: inline-block; padding: 16px 36px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; border-radius: 6px; background: #95e4f0;\">Confirm</a>\n</div>\n`;\n\nmsg.to = msg.payload.email;\nmsg.topic = 'Verify';\nmsg.payload = text;\n\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [
-            {
-                "var": "jwt",
-                "module": "jsonwebtoken"
-            }
-        ],
-        "x": 530,
-        "y": 660,
-        "wires": [
-            [
-                "c193a98b11e16770",
-                "d2dc6d60f2aadf80"
-            ]
-        ]
-    },
-    {
-        "id": "c193a98b11e16770",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "repeat msg to email",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 730,
-        "y": 620,
-        "wires": []
-    },
-    {
-        "id": "f833e1216c97cff7",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "payload",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 520,
-        "y": 620,
-        "wires": []
-    },
-    {
-        "id": "d2dc6d60f2aadf80",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "msg to page",
-        "func": "msg.payload = {\n    data: `We sent the email \"${msg.email}\" again. Please, check your inbox or spam.`\n}\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 710,
-        "y": 700,
-        "wires": [
-            [
-                "99544f5cb03a9f23",
-                "62ac94f341138925"
-            ]
-        ]
-    },
-    {
-        "id": "62ac94f341138925",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "finish",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 870,
-        "y": 660,
-        "wires": []
-    },
-    {
         "id": "6d762311464829e7",
         "type": "http in",
         "z": "c8b39bad946d8ab6",
@@ -3521,7 +1789,6 @@
         "y": 1160,
         "wires": [
             [
-                "13e4e31799cdc417",
                 "9ef904e08c1b1ac1"
             ]
         ]
@@ -3554,82 +1821,9 @@
         "y": 1160,
         "wires": [
             [
-                "19089ad57199af39",
                 "85976ad92833929a"
             ]
         ]
-    },
-    {
-        "id": "13e4e31799cdc417",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "2229ae9934019399",
-        "name": "came",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 310,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "b4488590d344582f",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "2229ae9934019399",
-        "name": "finish",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 870,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "19089ad57199af39",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "2229ae9934019399",
-        "name": "query to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 490,
-        "y": 1120,
-        "wires": []
-    },
-    {
-        "id": "5fe531e8c9bf55b6",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "2229ae9934019399",
-        "name": "res db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 670,
-        "y": 1120,
-        "wires": []
     },
     {
         "id": "636a9bb0cdc28a94",
@@ -3657,7 +1851,6 @@
         "wires": [
             [
                 "9a785ddcdaf6df0d",
-                "b4488590d344582f",
                 "a2b1bc579a4c0ced"
             ]
         ]
@@ -3677,8 +1870,7 @@
         "y": 1160,
         "wires": [
             [
-                "636a9bb0cdc28a94",
-                "5fe531e8c9bf55b6"
+                "636a9bb0cdc28a94"
             ]
         ]
     },
@@ -3713,28 +1905,9 @@
         "y": 1600,
         "wires": [
             [
-                "c823a259da378156",
                 "2082fa66df328468"
             ]
         ]
-    },
-    {
-        "id": "c823a259da378156",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "came",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 370,
-        "y": 1560,
-        "wires": []
     },
     {
         "id": "2082fa66df328468",
@@ -3752,28 +1925,9 @@
         "y": 1600,
         "wires": [
             [
-                "3b262e8c754b5f29",
                 "bdbcc19d02a07b56"
             ]
         ]
-    },
-    {
-        "id": "3b262e8c754b5f29",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "query to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 570,
-        "y": 1560,
-        "wires": []
     },
     {
         "id": "bdbcc19d02a07b56",
@@ -3790,8 +1944,7 @@
         "y": 1600,
         "wires": [
             [
-                "9c78085fd79972cb",
-                "2eda0c91d0b75786"
+                "9c78085fd79972cb"
             ]
         ]
     },
@@ -3825,24 +1978,6 @@
         ]
     },
     {
-        "id": "2eda0c91d0b75786",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "res db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 750,
-        "y": 1560,
-        "wires": []
-    },
-    {
         "id": "2687dc71562c4d72",
         "type": "http response",
         "z": "c8b39bad946d8ab6",
@@ -3868,8 +2003,7 @@
         "y": 1420,
         "wires": [
             [
-                "17248297231b9d88",
-                "d8e9faa5f5797221"
+                "17248297231b9d88"
             ]
         ],
         "icon": "node-red/arrow-in.svg"
@@ -3893,28 +2027,9 @@
                 "59a6366d8be0ed5e"
             ],
             [
-                "5164464dd17d2bc2",
-                "c08229195cce1b53"
+                "5164464dd17d2bc2"
             ]
         ]
-    },
-    {
-        "id": "d8e9faa5f5797221",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "came",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 410,
-        "y": 1460,
-        "wires": []
     },
     {
         "id": "59a6366d8be0ed5e",
@@ -3931,8 +2046,7 @@
         "y": 1400,
         "wires": [
             [
-                "a605c9337c4c16d3",
-                "ed02bf967732b00f"
+                "a605c9337c4c16d3"
             ]
         ]
     },
@@ -3955,28 +2069,9 @@
                 "97dc27c464c28717"
             ],
             [
-                "4f97e46839f52868",
-                "d52f6d33dbea5a1b"
+                "4f97e46839f52868"
             ]
         ]
-    },
-    {
-        "id": "ed02bf967732b00f",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "Item after DB",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 790,
-        "y": 1360,
-        "wires": []
     },
     {
         "id": "97dc27c464c28717",
@@ -4021,24 +2116,6 @@
         "wires": []
     },
     {
-        "id": "d52f6d33dbea5a1b",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "err email not found",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1010,
-        "y": 1460,
-        "wires": []
-    },
-    {
         "id": "ddf35fbb3e263951",
         "type": "function",
         "z": "c8b39bad946d8ab6",
@@ -4059,8 +2136,7 @@
         "y": 1380,
         "wires": [
             [
-                "2212b62e77474999",
-                "d32809a33993ab1c"
+                "2212b62e77474999"
             ]
         ]
     },
@@ -4089,26 +2165,8 @@
         "name": "",
         "statusCode": "",
         "headers": {},
-        "x": 1390,
-        "y": 1420,
-        "wires": []
-    },
-    {
-        "id": "d32809a33993ab1c",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "end email",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1400,
-        "y": 1340,
+        "x": 1350,
+        "y": 1380,
         "wires": []
     },
     {
@@ -4165,7 +2223,6 @@
         "y": 1720,
         "wires": [
             [
-                "9fe3a92c904e973d",
                 "654fcb097eed7e68"
             ]
         ]
@@ -4199,7 +2256,6 @@
         "y": 1720,
         "wires": [
             [
-                "71ea35313c1e5bbe",
                 "d12866b139615b07",
                 "45455fa4faeda4c6"
             ],
@@ -4207,42 +2263,6 @@
                 "7df30165a4d0a7eb"
             ]
         ]
-    },
-    {
-        "id": "9fe3a92c904e973d",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "res db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 670,
-        "y": 1680,
-        "wires": []
-    },
-    {
-        "id": "71ea35313c1e5bbe",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "query to db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 910,
-        "y": 1640,
-        "wires": []
     },
     {
         "id": "d12866b139615b07",
@@ -4265,7 +2285,6 @@
         "y": 1720,
         "wires": [
             [
-                "c4d39042ddfb3c4c",
                 "ca0b1f9a3c42aad6"
             ]
         ]
@@ -4286,24 +2305,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "c4d39042ddfb3c4c",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "5bf7ccb6c6709633",
-        "name": "end email",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1120,
-        "y": 1620,
-        "wires": []
     },
     {
         "id": "ca0b1f9a3c42aad6",
@@ -4338,7 +2339,6 @@
         "y": 2160,
         "wires": [
             [
-                "cd5c1d01d15467f7",
                 "81bdba71023d5429"
             ]
         ]
@@ -4364,24 +2364,6 @@
         ]
     },
     {
-        "id": "cd5c1d01d15467f7",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "a8bcf74ef7690d27",
-        "name": "finsih",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 770,
-        "y": 2160,
-        "wires": []
-    },
-    {
         "id": "81bdba71023d5429",
         "type": "link call",
         "z": "c8b39bad946d8ab6",
@@ -4395,9 +2377,7 @@
         "x": 510,
         "y": 2160,
         "wires": [
-            [
-                "cd5c1d01d15467f7"
-            ]
+            []
         ]
     },
     {
@@ -4421,28 +2401,9 @@
         "y": 2200,
         "wires": [
             [
-                "943cda0940fbfc65",
                 "0d8e4b5e24ee7f2c"
             ]
         ]
-    },
-    {
-        "id": "943cda0940fbfc65",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "a8bcf74ef7690d27",
-        "name": "finish",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 770,
-        "y": 2200,
-        "wires": []
     },
     {
         "id": "6d5c9e567735125f",
@@ -4470,9 +2431,7 @@
         "x": 510,
         "y": 2200,
         "wires": [
-            [
-                "943cda0940fbfc65"
-            ]
+            []
         ]
     },
     {
@@ -4496,7 +2455,6 @@
         "y": 2060,
         "wires": [
             [
-                "acef5e4ee852a34b",
                 "920e683749d9b015"
             ]
         ]
@@ -4521,24 +2479,6 @@
             ]
         ],
         "icon": "font-awesome/fa-edit"
-    },
-    {
-        "id": "acef5e4ee852a34b",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "a8bcf74ef7690d27",
-        "name": "finish",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 770,
-        "y": 2060,
-        "wires": []
     },
     {
         "id": "920e683749d9b015",
@@ -4590,8 +2530,7 @@
         "y": 2100,
         "wires": [
             [
-                "732470b6749e6a6e",
-                "84af4b543dc711ed"
+                "732470b6749e6a6e"
             ]
         ]
     },
@@ -4611,24 +2550,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "84af4b543dc711ed",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "a8bcf74ef7690d27",
-        "name": "finish",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 770,
-        "y": 2100,
-        "wires": []
     },
     {
         "id": "7df30165a4d0a7eb",
@@ -4674,23 +2595,6 @@
         "wires": []
     },
     {
-        "id": "53cd8649fa65084f",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "name": "err login",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 480,
-        "y": 200,
-        "wires": []
-    },
-    {
         "id": "82bf44e646ff81c1",
         "type": "http response",
         "z": "c8b39bad946d8ab6",
@@ -4699,23 +2603,6 @@
         "headers": {},
         "x": 450,
         "y": 500,
-        "wires": []
-    },
-    {
-        "id": "3d2a6611794a1aab",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "name": "err register",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 470,
-        "y": 540,
         "wires": []
     },
     {
@@ -4728,42 +2615,6 @@
         "x": 590,
         "y": 1460,
         "wires": []
-    },
-    {
-        "id": "c08229195cce1b53",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "name": "err register",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 610,
-        "y": 1500,
-        "wires": []
-    },
-    {
-        "id": "6012ab98a19cbb6a",
-        "type": "link call",
-        "z": "c8b39bad946d8ab6",
-        "g": "d78377c07a215120",
-        "name": "",
-        "links": [
-            "286431cd31c9fc7a"
-        ],
-        "linkType": "static",
-        "timeout": "30",
-        "x": 850,
-        "y": 480,
-        "wires": [
-            [
-                "376f7da2f0d85f32"
-            ]
-        ]
     },
     {
         "id": "0cfa0691dcae508d",
@@ -4780,8 +2631,7 @@
         "y": 820,
         "wires": [
             [
-                "14cc1d46a9f6856f",
-                "6f874c3f5f2d8c7e"
+                "14cc1d46a9f6856f"
             ]
         ]
     },
@@ -4800,27 +2650,9 @@
         "y": 820,
         "wires": [
             [
-                "87b2820c2bf1143e",
                 "a602a24988dcc60f"
             ]
         ]
-    },
-    {
-        "id": "6f874c3f5f2d8c7e",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "name": "menu grouping",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1640,
-        "y": 780,
-        "wires": []
     },
     {
         "id": "47d7659c57682dc5",
@@ -4836,8 +2668,7 @@
         "y": 2980,
         "wires": [
             [
-                "0148d4c43311575a",
-                "edf7b992521b758b"
+                "0148d4c43311575a"
             ]
         ],
         "icon": "node-red/arrow-in.svg"
@@ -4863,24 +2694,6 @@
         ]
     },
     {
-        "id": "edf7b992521b758b",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "3b2ecc05f3cef5f7",
-        "name": "",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 310,
-        "y": 3020,
-        "wires": []
-    },
-    {
         "id": "bfda0ffbb10779bc",
         "type": "link call",
         "z": "c8b39bad946d8ab6",
@@ -4895,8 +2708,7 @@
         "y": 2980,
         "wires": [
             [
-                "0ad420bdb40c7f48",
-                "44c147950358453b"
+                "0ad420bdb40c7f48"
             ]
         ]
     },
@@ -4919,28 +2731,9 @@
                 "37630c5145f4933f"
             ],
             [
-                "0107039c4340e3b2",
-                "e82f14a9819d4d19"
+                "0107039c4340e3b2"
             ]
         ]
-    },
-    {
-        "id": "44c147950358453b",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "3b2ecc05f3cef5f7",
-        "name": "db",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 550,
-        "y": 3020,
-        "wires": []
     },
     {
         "id": "0107039c4340e3b2",
@@ -4952,24 +2745,6 @@
         "headers": {},
         "x": 700,
         "y": 3020,
-        "wires": []
-    },
-    {
-        "id": "e82f14a9819d4d19",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "g": "3b2ecc05f3cef5f7",
-        "name": "err when created user",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 740,
-        "y": 3060,
         "wires": []
     },
     {
@@ -5034,36 +2809,6 @@
         "x": 870,
         "y": 2980,
         "wires": []
-    },
-    {
-        "id": "8bf4f333b8910d6e",
-        "type": "inject",
-        "z": "c8b39bad946d8ab6",
-        "g": "3b2ecc05f3cef5f7",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 2740,
-        "wires": [
-            [
-                "ac9687b0e33d5319"
-            ]
-        ]
     },
     {
         "id": "bc0f550f1359a6ec",
@@ -5167,8 +2912,7 @@
                 "ab652fd69b89e525"
             ],
             [
-                "688982904305d6b0",
-                "c984c9a33730c756"
+                "688982904305d6b0"
             ]
         ],
         "l": false
@@ -5401,8 +3145,7 @@
         "y": 3120,
         "wires": [
             [
-                "e4d439733f677236",
-                "0785a0ab2cecf3fb"
+                "e4d439733f677236"
             ],
             [
                 "a4cd87d790402f29"
@@ -5476,23 +3219,6 @@
         "headers": {},
         "x": 3030,
         "y": 3100,
-        "wires": []
-    },
-    {
-        "id": "0785a0ab2cecf3fb",
-        "type": "debug",
-        "z": "c8b39bad946d8ab6",
-        "name": "debug 715",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 3050,
-        "y": 3060,
         "wires": []
     },
     {
@@ -5576,138 +3302,6 @@
         ]
     },
     {
-        "id": "b2aaa68fedd2c587",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "name": "check_",
-        "func": "msg.collection = \"admins\";\n\nmsg.payload= {\n       \n      }\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 360,
-        "y": 3280,
-        "wires": [
-            [
-                "ed76cdfe3a075a87"
-            ]
-        ]
-    },
-    {
-        "id": "c458277e50951535",
-        "type": "inject",
-        "z": "c8b39bad946d8ab6",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 160,
-        "y": 3340,
-        "wires": [
-            [
-                "b2aaa68fedd2c587",
-                "412d69e60f25a8e5",
-                "630a0db849b31d69"
-            ]
-        ]
-    },
-    {
-        "id": "ed76cdfe3a075a87",
-        "type": "mongodb out",
-        "z": "c8b39bad946d8ab6",
-        "mongodb": "f168eeb2f9b6dc07",
-        "name": "",
-        "collection": "",
-        "payonly": false,
-        "upsert": false,
-        "multi": false,
-        "operation": "delete",
-        "x": 600,
-        "y": 3340,
-        "wires": []
-    },
-    {
-        "id": "412d69e60f25a8e5",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "name": "check_",
-        "func": "msg.collection = \"admin_modules\";\n\nmsg.payload= {\n       \n      }\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 360,
-        "y": 3340,
-        "wires": [
-            [
-                "ed76cdfe3a075a87"
-            ]
-        ]
-    },
-    {
-        "id": "630a0db849b31d69",
-        "type": "function",
-        "z": "c8b39bad946d8ab6",
-        "name": "check_",
-        "func": "msg.collection = \"admin_roles\";\n\nmsg.payload= {\n       \n      }\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 360,
-        "y": 3400,
-        "wires": [
-            [
-                "ed76cdfe3a075a87"
-            ]
-        ]
-    },
-    {
-        "id": "e18f36841a508eaa",
-        "type": "inject",
-        "z": "c8b39bad946d8ab6",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": true,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 170,
-        "y": 3220,
-        "wires": [
-            [
-                "bc0f550f1359a6ec"
-            ]
-        ]
-    },
-    {
         "id": "688982904305d6b0",
         "type": "http response",
         "z": "c8b39bad946d8ab6",
@@ -5730,7 +3324,7 @@
         "finalize": "",
         "libs": [],
         "x": 360,
-        "y": 3480,
+        "y": 3340,
         "wires": [
             [
                 "2f08bb9c796e6811"
@@ -5748,7 +3342,7 @@
         "linkType": "static",
         "timeout": "30",
         "x": 550,
-        "y": 3480,
+        "y": 3340,
         "wires": [
             [
                 "2c2cc8f2f6ce1020"
@@ -5767,7 +3361,7 @@
         "finalize": "",
         "libs": [],
         "x": 665,
-        "y": 3480,
+        "y": 3340,
         "wires": [
             [
                 "f80d088a15bd91a8"
@@ -5788,7 +3382,7 @@
         "upload": false,
         "swaggerDoc": "",
         "x": 150,
-        "y": 3480,
+        "y": 3340,
         "wires": [
             [
                 "cbf113967aacc39c"
@@ -5817,7 +3411,7 @@
         "payload": "",
         "payloadType": "date",
         "x": 140,
-        "y": 3520,
+        "y": 3380,
         "wires": [
             [
                 "cbf113967aacc39c"
@@ -5832,54 +3426,830 @@
         "statusCode": "",
         "headers": {},
         "x": 770,
-        "y": 3480,
+        "y": 3340,
         "wires": []
     },
     {
-        "id": "c86e4878aeaec2cc",
-        "type": "inject",
+        "id": "5c6e2dd94ba411ce",
+        "type": "http in",
         "z": "c8b39bad946d8ab6",
         "g": "d78377c07a215120",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 120,
-        "y": 780,
+        "name": "login",
+        "url": "/login",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 120,
         "wires": [
             [
-                "097b05d6f95dab62"
+                "672799ed948f1313"
+            ]
+        ],
+        "icon": "node-red/arrow-in.svg"
+    },
+    {
+        "id": "672799ed948f1313",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check",
+        "func": "const regexEmail = /^(([^<>()[\\]\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@(([^<>()[\\]\\.,;:\\s@\\\"]+\\.)+[^<>()[\\]\\.,;:\\s@\\\"]{2,})$/i;\nconst regexPassword = /^(?!.*\\s).{8,}/;\nconst email = msg.payload.email.toLowerCase();\n\nif (!regexEmail.test(email)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"Email is invalid\",\n        code: 401\n    }\n\n    return [null, msg];\n\n} else if (!regexPassword.test(msg.payload.password)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"The password is invalid. The value must be at least 8 characters and without whitespaces\",\n        code: 401\n    }\n\n    return [null, msg];\n    \n} else {\n    msg.collection = \"admins\"\n    msg.fromApp = msg.payload\n\n    node.warn(msg.fromApp)\n\n    msg.payload = {\n        email: email,\n        deleted: false,\n        active: true\n    }\n\n    return [msg, null];\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 330,
+        "y": 120,
+        "wires": [
+            [
+                "d8f65e08d1802e8e"
+            ],
+            [
+                "769c853fb108cedb"
             ]
         ]
     },
     {
-        "id": "c984c9a33730c756",
-        "type": "debug",
+        "id": "b085f10213c6a2fc",
+        "type": "http response",
         "z": "c8b39bad946d8ab6",
-        "name": "debug 728",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "false",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 670,
-        "y": 3280,
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1230,
+        "y": 100,
         "wires": []
+    },
+    {
+        "id": "e594c405f087b6cf",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check auth",
+        "func": "\nif(msg.payload.length === 0){\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"Incorrect email or password\",\n        code:401\n    }\n    node.warn(\"Email not found\");\n    return [null,msg]\n} else {\n\n    let check = await bcrypt.compare(msg.fromApp.password, msg.payload[0].password);\n\n    if (!check) {\n        msg.statusCode = 401;\n        msg.payload = {\n            data: \"Incorrect email or password\",\n            code: 401\n        }\n        node.warn(\"Password incorrect\");\n        return [null, msg]\n    }\n\n    if (msg.payload[0].active === false) {\n        msg.statusCode = 401;\n        msg.payload = {\n            data: \"Email not activated\",\n            code: 401\n        }\n        return [null, msg]\n    }\n}\n\n\n\nreturn[msg,null]",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "bcrypt",
+                "module": "bcrypt"
+            }
+        ],
+        "x": 850,
+        "y": 120,
+        "wires": [
+            [
+                "1adb12ad2ffdeb42"
+            ],
+            [
+                "0608e9f35bdcacf1"
+            ]
+        ]
+    },
+    {
+        "id": "0608e9f35bdcacf1",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1050,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "1adb12ad2ffdeb42",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "jwt token",
+        "func": "msg.payload = msg.payload[0]\nconst token = jwt.sign(\n    { user_id: msg.payload._id, email:msg.payload.email },\n    \"fGh2W42l\",\n    {\n        expiresIn: \"30d\",\n    }\n);\n\nmsg.cookies = {};\nmsg.cookies[\"user_token\"] = token;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "jwt",
+                "module": "jsonwebtoken"
+            }
+        ],
+        "x": 1060,
+        "y": 100,
+        "wires": [
+            [
+                "b085f10213c6a2fc"
+            ]
+        ]
+    },
+    {
+        "id": "d390b9504c129252",
+        "type": "http in",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "checkToken",
+        "url": "/checkToken",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 110,
+        "y": 860,
+        "wires": [
+            [
+                "097b05d6f95dab62"
+            ]
+        ],
+        "icon": "node-red/arrow-in.svg"
+    },
+    {
+        "id": "b457f0b5c3fd5d96",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "401",
+        "headers": {},
+        "x": 1040,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "097b05d6f95dab62",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check jwt",
+        "func": "msg.check = msg.payload;\nconst decoded = jwt.verify(msg.payload.token, 'fGh2W42l');\nmsg.payload = decoded\n\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "jwt",
+                "module": "jsonwebtoken"
+            }
+        ],
+        "x": 320,
+        "y": 860,
+        "wires": [
+            [
+                "73893182e2e2ed57"
+            ]
+        ]
+    },
+    {
+        "id": "dd3e208dfbba0a56",
+        "type": "catch",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "scope": [
+            "097b05d6f95dab62"
+        ],
+        "uncaught": false,
+        "x": 90,
+        "y": 960,
+        "wires": [
+            [
+                "265641df05c1ca83"
+            ]
+        ]
+    },
+    {
+        "id": "265641df05c1ca83",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "func": "msg.payload = {\n    auth: \"Unautorizate\",\n    code: 401,\n    login_id: msg.check.login_id,\n    app_id: msg.check.app_id\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 270,
+        "y": 960,
+        "wires": [
+            [
+                "de79ea462e97e016"
+            ]
+        ]
+    },
+    {
+        "id": "de79ea462e97e016",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 430,
+        "y": 960,
+        "wires": []
+    },
+    {
+        "id": "73893182e2e2ed57",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check",
+        "func": "msg.collection = \"admins\"\nmsg.fromApp = msg.payload\nmsg.payload = {\n    // email : msg.fromApp.email,\n    _id: objectid(msg.payload.user_id),\n    deleted:false\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "objectid",
+                "module": "objectid"
+            }
+        ],
+        "x": 490,
+        "y": 860,
+        "wires": [
+            [
+                "1a6b5d862a0b4bfc"
+            ]
+        ]
+    },
+    {
+        "id": "cfc7631182b5ef67",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check auth",
+        "func": "\nif(msg.payload.length > 0){\n    msg.payload = msg.payload[0]\n    msg.user = {\n        auth: \"Success\",\n        code:200,\n        user: msg.payload\n    }\n    return [msg,null]\n}else{\n    msg.payload = {\n        auth: \"Unautorizate\",\n        code: 401,\n        login_id:msg.check.login_id,\n        app_id:msg.check.app_id\n    }\n    return [null,msg]\n}\n\n",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 860,
+        "wires": [
+            [
+                "92a82d990292b9c2"
+            ],
+            [
+                "b457f0b5c3fd5d96"
+            ]
+        ]
+    },
+    {
+        "id": "a602a24988dcc60f",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1870,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "6f81187c8d88e4de",
+        "type": "link call",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 640,
+        "y": 120,
+        "wires": [
+            [
+                "e594c405f087b6cf"
+            ]
+        ]
+    },
+    {
+        "id": "1a6b5d862a0b4bfc",
+        "type": "link call",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 660,
+        "y": 860,
+        "wires": [
+            [
+                "cfc7631182b5ef67"
+            ]
+        ]
+    },
+    {
+        "id": "ca2dc46c7edc0fb2",
+        "type": "link call",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "links": [
+            "b7c366424b9b7e6e"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 1200,
+        "y": 820,
+        "wires": [
+            [
+                "0cfa0691dcae508d"
+            ]
+        ]
+    },
+    {
+        "id": "e49d1c22247329f1",
+        "type": "http in",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "signout",
+        "url": "/signout",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 90,
+        "y": 320,
+        "wires": [
+            [
+                "79c17e7d8ed1f939"
+            ]
+        ],
+        "icon": "node-red/arrow-in.svg"
+    },
+    {
+        "id": "962e2be5ddd19cfc",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 670,
+        "y": 320,
+        "wires": []
+    },
+    {
+        "id": "79c17e7d8ed1f939",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check jwt",
+        "func": "msg.cookies={\n    user_token: null\n}\n\nmsg.payload={\n    success: true\n}\n\nreturn msg;\n",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 320,
+        "y": 320,
+        "wires": [
+            [
+                "c67252247235be7c"
+            ]
+        ]
+    },
+    {
+        "id": "c67252247235be7c",
+        "type": "delay",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 500,
+        "y": 320,
+        "wires": [
+            [
+                "962e2be5ddd19cfc"
+            ]
+        ]
+    },
+    {
+        "id": "d8f65e08d1802e8e",
+        "type": "delay",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "pauseType": "delay",
+        "timeout": "2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "allowrate": false,
+        "outputs": 1,
+        "x": 480,
+        "y": 120,
+        "wires": [
+            [
+                "6f81187c8d88e4de"
+            ]
+        ]
+    },
+    {
+        "id": "92a82d990292b9c2",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "get roles",
+        "func": "msg.collection = \"admin_roles\"\nmsg.payload = [\n    {\n        $match:{\n            \"_id\": ObjectId(msg.payload.roles)\n        }\n    },\n    {\n        $lookup: {\n            from: 'translation',\n            as: 'translation',\n            pipeline: [\n                {\n                    $match: {\n                        deleted: false,\n                        language: msg.user.user.language\n                    }\n                }\n            ]\n        }\n    },\n    {\n        $lookup:\n        {\n            from: \"admin_modules\",\n            localField: \"permissions.moduleId\",\n            foreignField: \"_id\",\n            as: \"menu\"\n    }\n},\n]\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "ObjectId",
+                "module": "objectid"
+            }
+        ],
+        "x": 1040,
+        "y": 820,
+        "wires": [
+            [
+                "ca2dc46c7edc0fb2"
+            ]
+        ]
+    },
+    {
+        "id": "e653dc9c2aa956f2",
+        "type": "catch",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "g",
+        "scope": [
+            "92a82d990292b9c2"
+        ],
+        "uncaught": false,
+        "x": 1470,
+        "y": 860,
+        "wires": [
+            [
+                "0b6ff6d92b1de7e7"
+            ]
+        ]
+    },
+    {
+        "id": "0b6ff6d92b1de7e7",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "show err Unautorizate",
+        "func": "msg.payload ={\n    auth: \"Unautorizate\",\n    code: 401,\n    login_id: msg.check.login_id,\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1660,
+        "y": 860,
+        "wires": [
+            [
+                "a602a24988dcc60f"
+            ]
+        ]
+    },
+    {
+        "id": "f2f94b0b491998e3",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check ",
+        "func": "const regexEmail = /^(([^<>()[\\]\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@(([^<>()[\\]\\.,;:\\s@\\\"]+\\.)+[^<>()[\\]\\.,;:\\s@\\\"]{2,})$/i;\nconst regexPassword = /^(?!.*\\s).{8,}/;\nconst email = msg.payload.email.toLowerCase();\n\nif (!regexEmail.test(email)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"Email is invalid\",\n        code: 401\n    }\n\n    return [null, msg];\n\n} else if (!regexPassword.test(msg.payload.password)) {\n    msg.statusCode = 401;\n    msg.payload = {\n        data: \"The password is invalid. The value must be at least 8 characters and without whitespaces\",\n        code: 401\n    }\n\n    return [null, msg];\n\n} else {\n    msg.collection = \"admins\";\n    msg.oldpayload = msg.payload;\n\n    msg.payload = {\n        email: email,\n        deleted: false\n    };\n\n    return [msg, null];\n}",
+        "outputs": 2,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 310,
+        "y": 480,
+        "wires": [
+            [
+                "e4082ecde347ac24"
+            ],
+            [
+                "82bf44e646ff81c1"
+            ]
+        ]
+    },
+    {
+        "id": "e4082ecde347ac24",
+        "type": "link call",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "links": [
+            "346e518816416d1d"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 460,
+        "y": 460,
+        "wires": [
+            [
+                "831f0bc99fde7925"
+            ]
+        ]
+    },
+    {
+        "id": "831f0bc99fde7925",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "check",
+        "func": "if (msg.payload.length > 0) {\n    if (!msg.payload[0].active) {\n        const decoded = jwt.verify(msg.payload[0].verifyToken, 'fGh2W42l');\n        const dateNow = new Date().getTime();\n\n        if (decoded.exp < dateNow) {\n            msg.query = { _id: objectid(msg.payload[0]._id) }\n            msg.payload = {\n                $set: {\n                    deleted: false\n                }\n            }\n\n            return [null, null, msg, null]\n        } else {\n            msg.payload = {\n                verifyToken: msg.payload[0].verifyToken,\n                email: msg.payload[0].email\n            }\n\n            return [null, null, null, msg]\n        }\n    } else {\n        msg.payload = {\n            data: \"This email address already exists\",\n            code: 400,\n        }\n        return [null, msg, null, null]\n    }\n}\nelse {\n    return [msg, null, null, null]\n}\n\n\n",
+        "outputs": 4,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "jwt",
+                "module": "jsonwebtoken"
+            },
+            {
+                "var": "objectid",
+                "module": "objectid"
+            }
+        ],
+        "x": 650,
+        "y": 460,
+        "wires": [
+            [
+                "376f7da2f0d85f32"
+            ],
+            [
+                "9da58b8ba7897ee6"
+            ],
+            [
+                "6012ab98a19cbb6a"
+            ],
+            [
+                "eed04ab51fe181f6"
+            ]
+        ]
+    },
+    {
+        "id": "376f7da2f0d85f32",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "registration user",
+        "func": "let randomColor = \"#\" + Math.floor(Math.random() * 16777215).toString(16);\nlet encryptedPassword = await bcrypt.hash(msg.oldpayload.password, 10);\nconst verifyToken = await jwt.sign(\n    { id: Math.round(Math.random()) },\n    \"fGh2W42l\",\n    {\n        expiresIn: \"30d\",\n    }\n);\n\n\nmsg.cookies = {};\nmsg.cookies[\"verify_token\"] = verifyToken;\nmsg.cookies[\"email_register\"] = msg.oldpayload.email;\n\nmsg.payload = {\n    \"_id\": objectid(),\n    \"deleted\": false,\n    \"avatarColor\": randomColor,\n    \"createdAt\": new Date(),\n    \"roles\": \"admin\",\n    \"role\": \"admin\",\n    \"active\": true,\n    // \"firstname\": msg.oldpayload.firstname,\n    // \"lastname\": msg.oldpayload.lastname,\n    \"email\": msg.oldpayload.email.toLowerCase(),\n    \"password\": encryptedPassword,\n    verifyToken,\n    resetPassToken: \"\",\n    resetPassExpireToken: null\n}\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "objectid",
+                "module": "objectid"
+            },
+            {
+                "var": "bcrypt",
+                "module": "bcrypt"
+            },
+            {
+                "var": "jwt",
+                "module": "jsonwebtoken"
+            }
+        ],
+        "x": 1040,
+        "y": 420,
+        "wires": [
+            [
+                "eed04ab51fe181f6",
+                "bb1864602327c1ca"
+            ]
+        ]
+    },
+    {
+        "id": "9da58b8ba7897ee6",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "400",
+        "headers": {},
+        "x": 860,
+        "y": 440,
+        "wires": []
+    },
+    {
+        "id": "bb1864602327c1ca",
+        "type": "link call",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "links": [
+            "1764f8568a80ddbd"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 1230,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "eed04ab51fe181f6",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "msg to email",
+        "func": "const token = msg.payload.verifyToken;\nconst back = env.get(\"back\");\nconst url = `${back}/verifyToken?token=${token}`;\nconst text = `\n<div style=\"padding: 10px 0; color: black;\">\n    <h1>Confirm Your Email Address</h1>\n    <p>Tap the button below to confirm your email address. If you didn't create an account, you can delete this email.</p>\n    <a href=\"${url}\" target=\"_blank\" style=\"margin: 10px 0; display: inline-block; padding: 16px 36px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; border-radius: 6px; background: #95e4f0;\">Confirm</a>\n</div>\n`;\n\nmsg.to = msg.payload.email;\nmsg.topic = 'Verify';\nmsg.payload = text;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "jwt",
+                "module": "jsonwebtoken"
+            }
+        ],
+        "x": 1250,
+        "y": 500,
+        "wires": [
+            [
+                "406b08af64a38632"
+            ]
+        ]
+    },
+    {
+        "id": "406b08af64a38632",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 1410,
+        "y": 540,
+        "wires": []
+    },
+    {
+        "id": "46d2feb29eb7f617",
+        "type": "http in",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "repeatRegisterEmail",
+        "url": "/repeatRegisterEmail",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 130,
+        "y": 660,
+        "wires": [
+            [
+                "ba0fdb3c55f49767"
+            ]
+        ],
+        "icon": "node-red/arrow-in.svg"
+    },
+    {
+        "id": "ba0fdb3c55f49767",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "email and token",
+        "func": "msg.payload = {\n    verifyToken: msg.req.cookies.verify_token,\n    email: msg.req.cookies.email_register.toLowerCase()\n}\nmsg.email = msg.req.cookies.email_register.toLowerCase();\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 340,
+        "y": 660,
+        "wires": [
+            [
+                "32fb51525caa70d8"
+            ]
+        ]
+    },
+    {
+        "id": "99544f5cb03a9f23",
+        "type": "http response",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "statusCode": "",
+        "headers": {},
+        "x": 870,
+        "y": 660,
+        "wires": []
+    },
+    {
+        "id": "32fb51525caa70d8",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "msg to email",
+        "func": "const token = msg.payload.verifyToken;\nconst back = env.get(\"back\");\nconst url = `${back}/verifyToken?token=${token}`;\nconst text = `\n<div style=\"padding: 10px 0; color: black;\">\n    <h1>Confirm Your Email Address</h1>\n    <p>Tap the button below to confirm your email address. If you didn't create an account, you can delete this email.</p>\n    <a href=\"${url}\" target=\"_blank\" style=\"margin: 10px 0; display: inline-block; padding: 16px 36px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 16px; color: #ffffff; text-decoration: none; border-radius: 6px; background: #95e4f0;\">Confirm</a>\n</div>\n`;\n\nmsg.to = msg.payload.email;\nmsg.topic = 'Verify';\nmsg.payload = text;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [
+            {
+                "var": "jwt",
+                "module": "jsonwebtoken"
+            }
+        ],
+        "x": 530,
+        "y": 660,
+        "wires": [
+            [
+                "d2dc6d60f2aadf80"
+            ]
+        ]
+    },
+    {
+        "id": "d2dc6d60f2aadf80",
+        "type": "function",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "msg to page",
+        "func": "msg.payload = {\n    data: `We sent the email \"${msg.email}\" again. Please, check your inbox or spam.`\n}\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 710,
+        "y": 660,
+        "wires": [
+            [
+                "99544f5cb03a9f23"
+            ]
+        ]
+    },
+    {
+        "id": "71d0784401d97a30",
+        "type": "http in",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "registration",
+        "url": "/registration",
+        "method": "post",
+        "upload": false,
+        "swaggerDoc": "",
+        "x": 100,
+        "y": 480,
+        "wires": [
+            [
+                "f2f94b0b491998e3"
+            ]
+        ],
+        "icon": "node-red/arrow-in.svg"
+    },
+    {
+        "id": "6012ab98a19cbb6a",
+        "type": "link call",
+        "z": "c8b39bad946d8ab6",
+        "g": "d78377c07a215120",
+        "name": "",
+        "links": [
+            "286431cd31c9fc7a"
+        ],
+        "linkType": "static",
+        "timeout": "30",
+        "x": 850,
+        "y": 480,
+        "wires": [
+            [
+                "376f7da2f0d85f32"
+            ]
+        ]
     },
     {
         "id": "0432352c4179b24e",
@@ -5983,8 +4353,7 @@
         "y": 200,
         "wires": [
             [
-                "87ee588dc76b318f",
-                "1c5beeeeab7b90c1"
+                "87ee588dc76b318f"
             ]
         ]
     },
@@ -6037,23 +4406,6 @@
         ]
     },
     {
-        "id": "1c5beeeeab7b90c1",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "update order",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 630,
-        "y": 240,
-        "wires": []
-    },
-    {
         "id": "4c34036ed489adaf",
         "type": "http in",
         "z": "7b13882ad5aa8e09",
@@ -6090,8 +4442,7 @@
         "y": 300,
         "wires": [
             [
-                "a51d9a0f0a1c6482",
-                "749f34a64a5afaf5"
+                "a51d9a0f0a1c6482"
             ]
         ]
     },
@@ -6144,23 +4495,6 @@
         ]
     },
     {
-        "id": "749f34a64a5afaf5",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "delete order",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 630,
-        "y": 340,
-        "wires": []
-    },
-    {
         "id": "5cb7cc2a0f0f63b1",
         "type": "http in",
         "z": "7b13882ad5aa8e09",
@@ -6197,8 +4531,7 @@
         "y": 400,
         "wires": [
             [
-                "da9ecd86e6ad0798",
-                "656881d4449f8fb3"
+                "da9ecd86e6ad0798"
             ]
         ]
     },
@@ -6251,23 +4584,6 @@
         ]
     },
     {
-        "id": "656881d4449f8fb3",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "change status",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 640,
-        "y": 440,
-        "wires": []
-    },
-    {
         "id": "73965a20b0544133",
         "type": "function",
         "z": "7b13882ad5aa8e09",
@@ -6287,59 +4603,12 @@
         "y": 100,
         "wires": [
             [
-                "4336d8cd0c11aa0e",
-                "7bd36e63bf453dbc"
+                "4336d8cd0c11aa0e"
             ],
             [
                 "c521019d1e10b5f1"
             ]
         ]
-    },
-    {
-        "id": "777c0ae8677530a8",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "{\"items\":[{\"id\":300,\"name\":\"Test3\",\"price\":1600,\"quantity\":4}],\"payment_method\":\"cash\"}",
-        "payloadType": "json",
-        "x": 130,
-        "y": 140,
-        "wires": [
-            [
-                "73965a20b0544133"
-            ]
-        ]
-    },
-    {
-        "id": "e65493fdf5cca9e6",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "save order",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 790,
-        "y": 140,
-        "wires": []
     },
     {
         "id": "4336d8cd0c11aa0e",
@@ -6352,12 +4621,11 @@
         "linkType": "static",
         "timeout": "30",
         "x": 610,
-        "y": 100,
+        "y": 80,
         "wires": [
             [
                 "51914a9afb54534c",
-                "67d1aa8a0cdfc6c5",
-                "e65493fdf5cca9e6"
+                "67d1aa8a0cdfc6c5"
             ]
         ]
     },
@@ -6402,8 +4670,7 @@
         "y": 100,
         "wires": [
             [
-                "c53ccffce2ae9cfd",
-                "967056929bbbdcc1"
+                "c53ccffce2ae9cfd"
             ]
         ]
     },
@@ -6428,7 +4695,6 @@
         "wires": [
             [
                 "e02f6d4da24fdbd4",
-                "4a323d71a087e48c",
                 "c8f775ef18de6f6f"
             ]
         ]
@@ -6444,23 +4710,6 @@
         },
         "x": 1110,
         "y": 100,
-        "wires": []
-    },
-    {
-        "id": "4a323d71a087e48c",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "URL",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1110,
-        "y": 140,
         "wires": []
     },
     {
@@ -6519,8 +4768,7 @@
         "y": 60,
         "wires": [
             [
-                "bc74f407da6de118",
-                "b179eb8265e8d0d0"
+                "bc74f407da6de118"
             ]
         ]
     },
@@ -6541,23 +4789,6 @@
         ]
     },
     {
-        "id": "b179eb8265e8d0d0",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "update order",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 1330,
-        "y": 80,
-        "wires": []
-    },
-    {
         "id": "2f3b12e8c06141df",
         "type": "link call",
         "z": "7b13882ad5aa8e09",
@@ -6571,27 +4802,9 @@
         "y": 800,
         "wires": [
             [
-                "e0fc24a35fd2d1d5",
                 "cdf16823efcee71f"
             ]
         ]
-    },
-    {
-        "id": "e0fc24a35fd2d1d5",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "save order",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 790,
-        "y": 840,
-        "wires": []
     },
     {
         "id": "cdf16823efcee71f",
@@ -6632,69 +4845,6 @@
         "wires": [
             []
         ]
-    },
-    {
-        "id": "44a4b91084903e9e",
-        "type": "inject",
-        "z": "7b13882ad5aa8e09",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 900,
-        "wires": [
-            [
-                "260d67da3b82436c"
-            ]
-        ]
-    },
-    {
-        "id": "260d67da3b82436c",
-        "type": "function",
-        "z": "7b13882ad5aa8e09",
-        "name": "deleteOrdersCollection",
-        "func": "msg.collection = 'orders'\nmsg.payload= {};\nreturn msg;",
-        "outputs": 1,
-        "noerr": 0,
-        "initialize": "",
-        "finalize": "",
-        "libs": [],
-        "x": 350,
-        "y": 900,
-        "wires": [
-            [
-                "e9928cc47ab33229"
-            ]
-        ]
-    },
-    {
-        "id": "e9928cc47ab33229",
-        "type": "mongodb out",
-        "z": "7b13882ad5aa8e09",
-        "mongodb": "f168eeb2f9b6dc07",
-        "name": "",
-        "collection": "orders",
-        "payonly": false,
-        "upsert": false,
-        "multi": false,
-        "operation": "delete",
-        "x": 680,
-        "y": 900,
-        "wires": []
     },
     {
         "id": "96313af3addeebb0",
@@ -7000,42 +5150,8 @@
         "name": "",
         "statusCode": "400",
         "headers": {},
-        "x": 540,
+        "x": 620,
         "y": 140,
-        "wires": []
-    },
-    {
-        "id": "7bd36e63bf453dbc",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "debug 726",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 530,
-        "y": 40,
-        "wires": []
-    },
-    {
-        "id": "967056929bbbdcc1",
-        "type": "debug",
-        "z": "7b13882ad5aa8e09",
-        "name": "debug 727",
-        "active": true,
-        "tosidebar": true,
-        "console": false,
-        "tostatus": false,
-        "complete": "true",
-        "targetType": "full",
-        "statusVal": "",
-        "statusType": "auto",
-        "x": 930,
-        "y": 60,
         "wires": []
     },
     {

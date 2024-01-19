@@ -7,6 +7,5 @@
         "user": "${fondydb-user}",
         "password": "${fondydb-password}"
     },
-    "802b612aa6ef27e0": {},
     "c53ccffce2ae9cfd": {}
 }
