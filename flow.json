@@ -270,7 +270,7 @@
         ],
         "x": 54,
         "y": 239,
-        "w": 1062,
+        "w": 1302,
         "h": 202
     },
     {
@@ -331,23 +331,13 @@
         "h": 942
     },
     {
-        "id": "f168eeb2f9b6dc07",
-        "type": "mongodb",
-        "hostname": "${fondydb-host}",
-        "topology": "direct",
-        "connectOptions": "authSource=admin",
-        "port": "27017",
-        "db": "${fondydb-db}",
-        "name": ""
-    },
-    {
         "id": "7846481e870df3f9",
         "type": "mongodb",
-        "hostname": "${fondydb-host}",
+        "hostname": "${FONDYDB-MONGO-HOST-NAME}",
         "topology": "direct",
         "connectOptions": "authSource=admin",
         "port": "27017",
-        "db": "${fondydb-db}",
+        "db": "${FONDYDB-MONGO-DB-NAME}",
         "name": ""
     },
     {
@@ -589,7 +579,7 @@
         "upsert": false,
         "multi": false,
         "operation": "insert",
-        "x": 950,
+        "x": 1070,
         "y": 320,
         "wires": []
     },
@@ -605,7 +595,7 @@
         "upsert": false,
         "multi": false,
         "operation": "update",
-        "x": 810,
+        "x": 930,
         "y": 400,
         "wires": []
     },
@@ -618,7 +608,7 @@
         "name": "",
         "collection": "",
         "operation": "find",
-        "x": 280,
+        "x": 400,
         "y": 320,
         "wires": [
             [
@@ -635,7 +625,7 @@
         "name": "",
         "collection": "",
         "operation": "aggregate",
-        "x": 280,
+        "x": 400,
         "y": 400,
         "wires": [
             [
@@ -3383,35 +3373,6 @@
         "swaggerDoc": "",
         "x": 150,
         "y": 3340,
-        "wires": [
-            [
-                "cbf113967aacc39c"
-            ]
-        ]
-    },
-    {
-        "id": "a67be6c6667d5927",
-        "type": "inject",
-        "z": "c8b39bad946d8ab6",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 140,
-        "y": 3380,
         "wires": [
             [
                 "cbf113967aacc39c"

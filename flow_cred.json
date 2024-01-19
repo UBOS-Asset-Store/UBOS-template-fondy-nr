@@ -1,11 +1,7 @@
 {
-    "f168eeb2f9b6dc07": {
-        "user": "${fondydb-user}",
-        "password": "${fondydb-password}"
-    },
     "7846481e870df3f9": {
-        "user": "${fondydb-user}",
-        "password": "${fondydb-password}"
+        "user": "${FONDYDB-MONGO-USER-NAME}",
+        "password": "${FONDYDB-MONGO-PASSWORD}"
     },
     "c53ccffce2ae9cfd": {}
 }
