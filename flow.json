@@ -71,9 +71,7 @@
             "306adf550fae80e8"
         ],
         "x": 894,
-        "y": 1879,
-        "w": 652,
-        "h": 702
+        "y": 1879
     },
     {
         "id": "2229ae9934019399",
@@ -93,9 +91,7 @@
             "a2b1bc579a4c0ced"
         ],
         "x": 14,
-        "y": 1119,
-        "w": 942,
-        "h": 122
+        "y": 1119
     },
     {
         "id": "5bf7ccb6c6709633",
@@ -132,9 +128,7 @@
             "36a8ed88d4ee5217"
         ],
         "x": 14,
-        "y": 1339,
-        "w": 1412,
-        "h": 462
+        "y": 1339
     },
     {
         "id": "3b2ecc05f3cef5f7",
@@ -168,9 +162,7 @@
             "97840b426439aec0"
         ],
         "x": 14,
-        "y": 2659,
-        "w": 932,
-        "h": 402
+        "y": 2659
     },
     {
         "id": "a8bcf74ef7690d27",
@@ -217,9 +209,7 @@
             "732470b6749e6a6e"
         ],
         "x": 4,
-        "y": 1859,
-        "w": 722,
-        "h": 722
+        "y": 1859
     },
     {
         "id": "a37ab3c2d5e20f98",
@@ -326,9 +316,7 @@
             "6012ab98a19cbb6a"
         ],
         "x": 14,
-        "y": 59,
-        "w": 1932,
-        "h": 942
+        "y": 59
     },
     {
         "id": "7846481e870df3f9",
@@ -447,7 +435,7 @@
         "fieldType": "msg",
         "format": "css",
         "syntax": "mustache",
-        "template": "\nbody section{\n    background-color: #ffffff!important;\n}\n.canvas {\n  height:inherit !important; \n}\n.container{\n    background-color: #ffffff!important;\n    min-width: 100vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n}\n.login_tabs{\n    min-width: 60vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    border: none !important;\n    padding: 0 !important;\n}\n.login_container{\n    left: 7% !important;\n    top: 10% !important;\n}\n\n.input .bp3-input{\n    border-radius: 5px !important;\n}\n\n.title .bp3-ui-text {\n   font-size: clamp(20px, 2.5vw, 50px) !important; \n   cursor: default !important;\n    -webkit-text-stroke: 1px #f27f71;\n}\n\n.sidebar{\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    padding: 0px !important;\n    width: 160px !important;\n}\n.header{\n   top: 0 !important;\n   left: 167px !important;\n   padding: 0px !important; \n   width: calc(100% - 160px) !important;\n}\n.accordion .bp3-button:not([class*=bp3-intent-]) {\n    box-shadow: inset 0 0 0 1px rgba(16,22,26,.2), inset 0 -1px 0 rgba(16,22,26,.1);\n}\n.accordion .bp3-button.active, .sub_category.active{\n    background-color: rgba(245, 163, 142, 0.325) !important;\n}\n.small_container{\n    top: 60px !important;\n    left: 167px  !important;\n    padding: 0px !important;\n    width: calc(100% - 160px) !important;\n    \n}\n.strt_container{\n    left: 13%  !important;\n}\n.t--widget-accordionwidget, .logo{\n    left: 1px !important;\n    width: 100% !important;\n}\n.input_url .bp3-input:disabled{\nbackground-color: #ffffff !important;\ncolor: #000000 !important;\n}\n.input_url .bp3-label {\ncolor: #000000 !important;\n}\n.json{\n    padding-left: 40px;\n}\n/* _____________DASHBOARD_________________ */\n\n.dashboard_btn{\n    border: 2px solid #FCCBC4;\n    border-radius: 5px;\n    cursor: pointer !important;\n    padding: 10px !important;\n    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px !important;\n}\n.dashboard_btn:hover{\n    border: 2px solid #f58181;\n    box-shadow: none !important;\n}\n.dashboard_btn span{\n    cursor: pointer !important;\n}",
+        "template": "\nbody section{\n    background-color: #ffffff!important;\n}\n.canvas {\n  height:inherit !important; \n}\n.container{\n    background-color: #ffffff!important;\n    min-width: 100vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n}\n.login_tabs{\n    min-width: 60vw !important;\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    border: none !important;\n    padding: 0 !important;\n}\n.login_container{\n    left: 7% !important;\n    top: 10% !important;\n}\n\n.input .bp3-input{\n    border-radius: 5px !important;\n}\n\n.title .bp3-ui-text {\n   font-size: clamp(20px, 2.5vw, 50px) !important; \n   cursor: default !important;\n    -webkit-text-stroke: 1px #f27f71;\n}\n\n.sidebar{\n    min-height: 100vh !important;\n    top: 0 !important;\n    left: 0 !important;\n    padding: 0px !important;\n    width: 160px !important;\n}\n.header{\n   top: 0 !important;\n   left: 167px !important;\n   padding: 0px !important; \n   width: calc(100% - 160px) !important;\n}\n.accordion .bp3-button:not([class*=bp3-intent-]) {\n    box-shadow: inset 0 0 0 1px rgba(16,22,26,.2), inset 0 -1px 0 rgba(16,22,26,.1);\n}\n.accordion .bp3-button.active, .sub_category.active{\n    background-color: rgba(245, 163, 142, 0.325) !important;\n    border-radius: 3px !important;\n}\n.accordion .bp3-button:hover, .sub_category:hover{\n     box-shadow: inset 0 0 0 2px rgba(241, 127, 99, 0.325), inset 0 -1px 0 rgba(226, 104, 74, 0.325) !important;\n     border-radius: 3px !important;\n}\n\n.small_container{\n    top: 60px !important;\n    left: 167px  !important;\n    padding: 0px !important;\n    width: calc(100% - 160px) !important;\n    \n}\n.strt_container{\n    left: 13%  !important;\n}\n.t--widget-accordionwidget, .logo{\n    left: 1px !important;\n    width: 100% !important;\n}\n.input_url .bp3-input:disabled{\nbackground-color: #ffffff !important;\ncolor: #000000 !important;\n}\n.input_url .bp3-label {\ncolor: #000000 !important;\n}\n.json{\n    padding-left: 40px;\n}\n/* _____________DASHBOARD_________________ */\n\n.dashboard_btn{\n    border: 2px solid #FCCBC4;\n    border-radius: 5px;\n    cursor: pointer !important;\n    padding: 10px !important;\n    box-shadow: rgba(0, 0, 0, 0.5) 0px 1px 3px !important;\n}\n.dashboard_btn:hover{\n    border: 2px solid #f58181;\n    box-shadow: none !important;\n}\n.dashboard_btn span{\n    cursor: pointer !important;\n}",
         "output": "str",
         "x": 900,
         "y": 80,
