@@ -155,9 +155,9 @@
             "ae293692fead8475",
             "732470b6749e6a6e"
         ],
-        "x": 24,
+        "x": 34,
         "y": 739,
-        "w": 722,
+        "w": 712,
         "h": 722
     },
     {
@@ -614,7 +614,7 @@
         "z": "c740254358c79788",
         "g": "a442ff05ea61cbd1",
         "name": "ENV",
-        "func": "\nmsg.payload = {\n    password: global.get(\"processENV\").password ? global.get(\"processENV\").password : \"\",\n    merchant_id: global.get(\"processENV\").merchant_id ? global.get(\"processENV\").merchant_id : \"\"\n}\n\n\n\nreturn msg;\n",
+        "func": "\nmsg.payload = {\n    password: global.get(\"processENV\")?.password ? global.get(\"processENV\").password : \"\",\n    merchant_id: global.get(\"processENV\")?.merchant_id ? global.get(\"processENV\").merchant_id : \"\"\n}\n\n\n\nreturn msg;\n",
         "outputs": 1,
         "noerr": 0,
         "initialize": "",
